@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DSI on Zack Traczyk</title>
+    <link>http://example.org/tags/dsi/</link>
+    <description>Recent content in DSI on Zack Traczyk</description>
+    <image>
+      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://example.org/tags/dsi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-01-24-blender-tip/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-01-24-blender-tip/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-01-24-einscan-3d-scanning-tip/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-01-24-einscan-3d-scanning-tip/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-01-24-einscan-white-light-scanning/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-01-24-einscan-white-light-scanning/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-01-24-meshroom-photogrametry/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-01-24-meshroom-photogrametry/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-01-24-new-passport/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-01-24-new-passport/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-01-25-plan-for-the-day/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-01-25-plan-for-the-day/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-01-26-cricut-training/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-01-26-cricut-training/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-01-30-agency-and-responsibility/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-01-30-agency-and-responsibility/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-02-02-3d-printing-training/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-02-02-3d-printing-training/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-02-07-smooth-bottom-3d-printing-trick/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-02-07-smooth-bottom-3d-printing-trick/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-02-09-3d-printing-safety-and-oversight/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-02-09-3d-printing-safety-and-oversight/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-02-22-sadc-meeting---1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-02-22-sadc-meeting---1/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-02-23-visualizer/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-02-23-visualizer/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-03-01-sadc-meeting---2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-03-01-sadc-meeting---2/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-03-14-leadership-class-connection-to-complexity-theory/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-03-14-leadership-class-connection-to-complexity-theory/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-04-07-sadc-meeting---3/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-04-07-sadc-meeting---3/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-04-12-glowforge-training/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-04-12-glowforge-training/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-04-15-glowforge-2nd-cut-tip/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-04-15-glowforge-2nd-cut-tip/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-04-17-thought-about-progress/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-04-17-thought-about-progress/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/22-09-09-website-idea/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/22-09-09-website-idea/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/3d-print---bumpoid-rubiks-cube/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/3d-print---bumpoid-rubiks-cube/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/3d-print---dsi-training-projects/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/3d-print---dsi-training-projects/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/3d-print---fidget-cube/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/3d-print---fidget-cube/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/3d-print---multimaterial-bear-coin/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/3d-print---multimaterial-bear-coin/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/3d-print---puzzle-cube/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/3d-print---puzzle-cube/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/3d-print---ucsc-word/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/3d-print---ucsc-word/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/3d-printing/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/3d-printing/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/3d-visualization---boids/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/3d-visualization---boids/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/3d-visualization---points-on-sphere/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/3d-visualization---points-on-sphere/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/agile-development/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/agile-development/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/an-introduction-to-complexity-theory/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/an-introduction-to-complexity-theory/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/andys-working-notes/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/andys-working-notes/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/aot/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/aot/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---chp-1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---chp-1/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---chp-3/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---chp-3/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---d2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---d2/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---lc1-nature-of-astronomy/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---lc1-nature-of-astronomy/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---lc2-a-star/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---lc2-a-star/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---lc3-orbits/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---lc3-orbits/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---lc4-gravity/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---lc4-gravity/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---lc5-radiation-and-spectra-p1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---lc5-radiation-and-spectra-p1/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---lc6-radation-and-spectra-p2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---lc6-radation-and-spectra-p2/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---lc7-the-sun/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---lc7-the-sun/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr---lc9-death-of-stars/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr---lc9-death-of-stars/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/astr1-introduction-to-the-cosmos/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/astr1-introduction-to-the-cosmos/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/axioms-of-probability/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/axioms-of-probability/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/beginners-guide-to-the-zettelkasten-method/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/beginners-guide-to-the-zettelkasten-method/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cmpm15---lc0-class-description/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cmpm15---lc0-class-description/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cmpm15---lc1-get-to-know/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cmpm15---lc1-get-to-know/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cmpm15---meet1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cmpm15---meet1/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cmpm15---meet2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cmpm15---meet2/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cmpm15---meet3/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cmpm15---meet3/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cmpm15-research-explorations/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cmpm15-research-explorations/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/complex-adaptive-system/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/complex-adaptive-system/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/complexity-theory/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/complexity-theory/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/creating-your-own-shapes-in-silhouette-studio/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/creating-your-own-shapes-in-silhouette-studio/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cricut---dsi-training-projects/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cricut---dsi-training-projects/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---general/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---general/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc1/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc13/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc13/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc14/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc14/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc15/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc15/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc16/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc16/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc17/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc17/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc18/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc18/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc2/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc4/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc4/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc5/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc5/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc6/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc6/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc7/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc7/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc8/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc8/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s---lc9/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s---lc9/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s-computer-units-of-data/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s-computer-units-of-data/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse13s-linked-lists/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse13s-linked-lists/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse40---m1-lc1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse40---m1-lc1/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse40---m1-lc2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse40---m1-lc2/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse40---m1-lc3/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse40---m1-lc3/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse40---m1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse40---m1/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse40---m2-lc1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse40---m2-lc1/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/cse40-probability-theory-terminology/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/cse40-probability-theory-terminology/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/dart/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/dart/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/database-types/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/database-types/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/declarative-programming/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/declarative-programming/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/dom/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/dom/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/dsi-long-term-project-ideas/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/dsi-long-term-project-ideas/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/dsi/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/dsi/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/electric-sheep/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/electric-sheep/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/emergence---the-remarkable-simplicity-of-complexity/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/emergence---the-remarkable-simplicity-of-complexity/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/emergence/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/emergence/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/entr-cli-tool/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/entr-cli-tool/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/equally-likely-outcomes/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/equally-likely-outcomes/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/eternal-return/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/eternal-return/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/event-space/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/event-space/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/fanatics/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fanatics/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/fdm-3d-printing/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fdm-3d-printing/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/fdm80s---asgn2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fdm80s---asgn2/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/fdm80s---final-project/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fdm80s---final-project/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/fdm80s---lc5/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fdm80s---lc5/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/fireship-reactjs-hooks-explained/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fireship-reactjs-hooks-explained/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/fireship-svg-animations-with-css/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fireship-svg-animations-with-css/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/flam3/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/flam3/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/fractal-flame-algorithm/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/fractal-flame-algorithm/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/full-stack-website-ideas/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/full-stack-website-ideas/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/glowforge---logo-tokens/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/glowforge---logo-tokens/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/glowforge---sitting-gnome/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/glowforge---sitting-gnome/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/headstarter---wk1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/headstarter---wk1/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/headstarter/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/headstarter/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/heic-to-jpg-conversion/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/heic-to-jpg-conversion/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/how-i-use-obsidian-at-work/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/how-i-use-obsidian-at-work/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/identifying-probability-problems/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/identifying-probability-problems/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/imperative-programming/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/imperative-programming/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/independent-events/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/independent-events/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/index/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/index/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/interesting-people/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/interesting-people/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/javascript-module-import-maps/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/javascript-module-import-maps/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/jit/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/jit/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/jpgs-to-pdf-conversion/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/jpgs-to-pdf-conversion/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/kanban/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/kanban/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/lean-startup/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/lean-startup/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/mac-quicklook/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mac-quicklook/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/main/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/main/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/makefile-readme.md-build-build.sh-convertlinks-convertlinks.cpp-filenames.txt-imagenames.txt-meta.md-personal-logo.png-sortnotes.cpp-src-template.html/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/makefile-readme.md-build-build.sh-convertlinks-convertlinks.cpp-filenames.txt-imagenames.txt-meta.md-personal-logo.png-sortnotes.cpp-src-template.html/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/map-of-content/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/map-of-content/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/mern---basics/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mern---basics/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/mobile/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mobile/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/mobile%5C/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mobile%5C/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/mutual-exclusion/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/mutual-exclusion/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/note-taking-apps/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/note-taking-apps/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/note-template/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/note-template/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/orca/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/orca/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/personal-tenets/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/personal-tenets/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/pi/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/pi/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/preparing-for-the-silicon-valley-tech-interviews/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/preparing-for-the-silicon-valley-tech-interviews/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/product-breakdown-structure/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/product-breakdown-structure/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/professor-long-latex-editing/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/professor-long-latex-editing/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/project-archive/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/project-archive/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/project-scope-document/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/project-scope-document/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/react---cruzhack-2023-frontend-challenge/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/react---cruzhack-2023-frontend-challenge/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/react---obsidian-vault-to-website/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/react---obsidian-vault-to-website/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/reactjs-hook---usecontext/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/reactjs-hook---usecontext/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/reactjs-hook---useeffect/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/reactjs-hook---useeffect/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/reactjs-hook---usestate/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/reactjs-hook---usestate/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/reactjs-hooks/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/reactjs-hooks/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/reactjs/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/reactjs/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/reading-list/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/reading-list/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/return-on-investment-fullstack-app/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/return-on-investment-fullstack-app/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/reverse-engineer-svgs-animations/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/reverse-engineer-svgs-animations/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/roam-research---this-note-taking-app-is-a-game-changer/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/roam-research---this-note-taking-app-is-a-game-changer/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/roam-research/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/roam-research/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/sample-space/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/sample-space/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/scrum/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/scrum/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/sluglife-web-app/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/sluglife-web-app/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/the-history-of-scrum/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/the-history-of-scrum/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/the-missing-readme-by-chris-riccomini-and-dmitriy-ryaboy/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/the-missing-readme-by-chris-riccomini-and-dmitriy-ryaboy/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/threejs-shaders-by-aerotwist/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/threejs-shaders-by-aerotwist/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/threejs/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/threejs/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/ultimate-tailwind-css-tutorial/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/ultimate-tailwind-css-tutorial/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/user-stories/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/user-stories/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/web-dev/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/web-dev/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2----lc8/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2----lc8/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---hw04-07-reading-response-lopez/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---hw04-07-reading-response-lopez/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---ipcc-summary-response/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---ipcc-summary-response/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---lc1-genre/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---lc1-genre/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---lc14/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---lc14/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---lc2-writing-assignment-1/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---lc2-writing-assignment-1/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---lc3-hw-specifications/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---lc3-hw-specifications/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---lc4-narrowing-a-research-topic/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---lc4-narrowing-a-research-topic/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---lc5-writting-assignment-2/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---lc5-writting-assignment-2/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---lc6/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---lc6/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---lc7/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---lc7/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---lc9/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---lc9/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---research-paper/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---research-paper/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---scavenger-hunt/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---scavenger-hunt/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2---straub-reading-response/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2---straub-reading-response/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/wrtr2-rhetoric-and-inquiry/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/wrtr2-rhetoric-and-inquiry/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+    <item>
+      <title>3D visualization - Boids</title>
+      <link>http://example.org/posts/zettelkasten-method/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>http://example.org/posts/zettelkasten-method/</guid>
+      <description>Simulating flocking behavior in the browser.</description>
+    </item>
+    
+  </channel>
+</rss>

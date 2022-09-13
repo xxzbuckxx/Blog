@@ -1,0 +1,83 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Zack Traczyk
+theme: PaperMod
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  hideFooter: true
+  ShowCodeCopyButtons: true
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "personal-logo.svg"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Zack Traczyk"
+    icon: personal-logo.svg
+    iconHeight: 25
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hello, I'm Zack Traczyk"
+    Content: "I'm a software engineer and a computer science student at the **University of California Santa Cruz**."
+
+  socialIcons:
+    - name: email
+      url: "me@zacktraczyk.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/zachary-traczyk-140b541b2/"
+    - name: github
+      url: "https://github.com/xxzbuckxx"
+
+menu:
+  main:
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - indentifier: search
+      name: Search
+      url: /search/
+      weight: 30
