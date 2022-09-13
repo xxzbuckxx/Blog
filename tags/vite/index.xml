@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vite on Zack Traczyk</title>
-    <link>http://example.org/tags/vite/</link>
+    <link>http://xxzbuckxx.github.io/Blog/tags/vite/</link>
     <description>Recent content in Vite on Zack Traczyk</description>
     <image>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://xxzbuckxx.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://xxzbuckxx.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 12:39:03 +0000</lastBuildDate><atom:link href="http://example.org/tags/vite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 12:39:03 +0000</lastBuildDate><atom:link href="http://xxzbuckxx.github.io/Blog/tags/vite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D visualization - Points on Sphere</title>
-      <link>http://example.org/posts/3d-visualization-points-on-sphere/</link>
+      <link>http://xxzbuckxx.github.io/Blog/posts/3d-visualization-points-on-sphere/</link>
       <pubDate>Thu, 05 May 2022 12:39:03 +0000</pubDate>
       
-      <guid>http://example.org/posts/3d-visualization-points-on-sphere/</guid>
+      <guid>http://xxzbuckxx.github.io/Blog/posts/3d-visualization-points-on-sphere/</guid>
       <description>A web project that generates 3d points on a sphere.</description>
     </item>
     
     <item>
       <title>3D visualization - Boids</title>
-      <link>http://example.org/posts/3d-visualization-boids/</link>
+      <link>http://xxzbuckxx.github.io/Blog/posts/3d-visualization-boids/</link>
       <pubDate>Wed, 23 Feb 2022 16:11:03 +0000</pubDate>
       
-      <guid>http://example.org/posts/3d-visualization-boids/</guid>
+      <guid>http://xxzbuckxx.github.io/Blog/posts/3d-visualization-boids/</guid>
       <description>Simulating flocking behavior in the browser.</description>
     </item>
     
