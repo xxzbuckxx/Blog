@@ -8,10 +8,10 @@ TocOpen: false
 draft: false
 description: "A web project that generates 3d points on a sphere."
 # canonicalURL: "https://canonical.url/to/page"
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 cover:
   image: "imgs/22-05-05-points-on-sphere.gif" # image path/url
