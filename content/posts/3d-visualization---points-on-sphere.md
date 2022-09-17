@@ -8,10 +8,10 @@ TocOpen: false
 draft: false
 description: "A web project that generates 3d points on a sphere."
 # canonicalURL: "https://canonical.url/to/page"
-ShowReadingTime: false
+ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: false
+ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 cover:
   image: "imgs/22-05-05-points-on-sphere.gif" # image path/url
@@ -20,6 +20,10 @@ cover:
 ---
 
 ## Concept
+
+# 3D visualization - Points on Sphere
+
+![22-05-05 Points On Sphere.gif](/blog/imgs/22-05-05-points-on-sphere.gif)
 
 This is a visualization for an algorithm that distributes points evenly on a sphere. My first attempts were at implementing the algorithm myself using [this stackoverflow post](https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere/44164075#44164075). However, I did not quite get the visualization I wanted, so I used [Sebastion Lague's implementation](https://gitiub.com/SebLague/Boids/blob/master/Assets/Scripts/BoidHelper.cs) instead.
 

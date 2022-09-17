@@ -49,11 +49,11 @@ First Thing I looked into is the software that allows the looking glass/portrait
 
 Fortunately, I had already made a 2D vision of a Boid simulation using [JavaScript](/posts/javascript) inspired by [Flocks, Herds, and Schools: A Distributed Behavioral Model](https://team.inria.fr/imagine/files/2014/10/flocks-hers-and-schools.pdf). It would take some work as I needed to change rendering engines for HTML5's Canvas to [ThreeJS](/posts/threejs), but the logic of the simulation was already figured out which would greatly reduce the difficulty in making the simulation.
 
-![22-02-23 Boid Simulation.gif](/imgs/22-02-23-boid-simulation.gif)
+![22-02-23 Boid Simulation.gif](/blog/imgs/22-02-23-boid-simulation.gif)
 
 After restructuring the project and adding a [import-map](/posts/javascript-module-import-maps) to use [JavaScript](/posts/javascript) Modules, I made a simple rotating cube animation.
 
-![22-02-23 ThreeJS Simple Rotating Cube.gif](/imgs/22-02-23-threejs-simple-rotating-cube.gif)
+![22-02-23 ThreeJS Simple Rotating Cube.gif](/blog/imgs/22-02-23-threejs-simple-rotating-cube.gif)
 
 ---
 
@@ -124,19 +124,19 @@ else if (this.mesh.position.x > origin.x + size.x - this.margin)
 
 After making some debug methods and camera controls, I can now spawn a Boid that moves within a box:
 
-![22-02-25 ThreeJS Single Boid Debug.gif](/imgs/22-02-25-threejs-single-boid-debug.gif)
+![22-02-25 ThreeJS Single Boid Debug.gif](/blog/imgs/22-02-25-threejs-single-boid-debug.gif)
 
 Spawning multiple Boids makes the animation already has some _~pizzaz~_:
 
-![22-02-25 ThreeJS 100 Naive Boids.gif](/imgs/22-02-25-threejs-100-naive-boids.gif)
+![22-02-25 ThreeJS 100 Naive Boids.gif](/blog/imgs/22-02-25-threejs-100-naive-boids.gif)
 
 Finally, I implemented the other rules of Boids using the same component approach as the 2D implementation. This is bad because computing vector components this way uses the CPU with each calculation being one at a time. I think A better implementation would take advantage of [ThreeJS](/posts/threejs) [vector](/posts/vectors) operations. The code would be cleaner as vector operations would be one line and done as ThreeJS intended. However, for even faster computations I may need to implement [JavaScript workers](https://medium.com/techtrument/multithreading-javascript-46156179cf9a) or run vector computations on the GPU.
 
 Regardless, here are some working swarms with different meshes and other small tweaks:
 
-![22-02-25 ThreeJS Boids Working.gif](/imgs/22-02-25-threejs-boids-working.gif)
-![22-02-25 ThreeJS Boids Working StrawMesh.gif](/imgs/22-02-25-threejs-boids-working-strawmesh.gif)
-![22-02-27 ThreeJS Boids Working Fog.gif](/imgs/22-02-27-threejs-boids-working-fog.gif)
+![22-02-25 ThreeJS Boids Working.gif](/blog/imgs/22-02-25-threejs-boids-working.gif)
+![22-02-25 ThreeJS Boids Working StrawMesh.gif](/blog/imgs/22-02-25-threejs-boids-working-strawmesh.gif)
+![22-02-27 ThreeJS Boids Working Fog.gif](/blog/imgs/22-02-27-threejs-boids-working-fog.gif)
 
 ---
 
@@ -204,7 +204,7 @@ Next I wanted to be able to simulate different kinds of fish, possibly with diff
 
 Here is how the simulation looks now:
 
-![22-03-02 ThreeJS Boids 2 Flock Basic Ocean.gif](/imgs/22-03-02-threejs-boids-2-flock-basic-ocean.gif)
+![22-03-02 ThreeJS Boids 2 Flock Basic Ocean.gif](/blog/imgs/22-03-02-threejs-boids-2-flock-basic-ocean.gif)
 
 With all these changes to the scene, the initialization function (`Init()`) became really dense and hard to read. It was about time to make a `World` class that would store the various world elements and their initialization.
 
@@ -241,7 +241,7 @@ This is obviously helpful most cases where you want to reduce loading lag. Usual
 
 For the test fish 3D Model I used blender to convert a STL file into a glTF. I used the UCSC letters model from my [3D Print - UCSC Word](/posts/3d-print---ucsc-word) project. After scaling and adjusting some world values, the result looks like so:
 
-![22-03-07 ThreeJS Boids 2 Flock UCSC Model.gif](/imgs/22-03-07-threejs-boids-2-flock-ucsc-model.gif)
+![22-03-07 ThreeJS Boids 2 Flock UCSC Model.gif](/blog/imgs/22-03-07-threejs-boids-2-flock-ucsc-model.gif)
 
 ---
 
@@ -255,13 +255,13 @@ I decided to refactor my code and use [Typescript](/posts/typescript) with [Node
 
 After all the refactoring, I decided to redo the GUI that controlled the Boid Parameters. I did not like how it was so cluttered, and I wanted the separation, alignment, and cohesion to be clearly distinct with one value each. Here is the old GUI:
 
-![22-04-22 Old UI.png](/imgs/22-04-22-old-ui.png)
+![22-04-22 Old UI.png](/blog/imgs/22-04-22-old-ui.png)
 
 First I got rid of the avoidFactor attribute and instead made it equal to `2*this.attributes.maxSpeed/100*this.attributes.minSeperation`. This way the avoid factor would scale with the speed and separation distance instead of being a manually controlled parameter. This allowed me to get rid of the subfolders in the GUI making the overall interface a lot cleaner.
 
 Next, I decided to scale my Boid attributes to have more sensible parameters. The decimal representations were not very pretty and it was confusing that the centeringFactor was 100x smaller than everything else. I spent some time making good coefficients to this attributes, so that the scales would all be from 1 to 10, except for the maxSpeedY which was a ratio of the total speed from 0 to 1. With all of this implemented I renamed the attributes to their original terms and the updated GUI looked a lot cleaner and was a lot more satisfying to control:
 
-![22-04-22 New UI.png](/imgs/22-04-22-new-ui.png)
+![22-04-22 New UI.png](/blog/imgs/22-04-22-new-ui.png)
 
 Finally, I decided to do some Git cleanup and add this log to the Github. I wanted the repo to contain all the information about the project so I uploaded the images and this README. Then I merged the 3D branch into the `main`, and created a `gh-pages` branch to designate for the static site to be displayed.
 
@@ -273,7 +273,7 @@ Finally, I decided to do some Git cleanup and add this log to the Github. I want
 
 Finally I have fish! Thanks to Vicky from the DSC, I finally have 3D fish models to represent my boids. Here they are imported into the simulation:
 
-![22-05-24 Vicky Fish First Import.gif](/imgs/22-05-24-vicky-fish-first-import.gif)
+![22-05-24 Vicky Fish First Import.gif](/blog/imgs/22-05-24-vicky-fish-first-import.gif)
 
 One thing I need to address is the material on the fish. Flat shading like this makes them sort of resemble blobs and takes away from the excellent modeling work that was done. Either I need to add texture, or change the material and lighting for the scene.
 
