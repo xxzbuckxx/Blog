@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Gamemaker 2 on Zack Traczyk</title>
-    <link>http://xxzbuckxx.github.io/Blog/tags/gamemaker-2/</link>
+    <link>https://xxzbuckxx.github.io/Blog/tags/gamemaker-2/</link>
     <description>Recent content in Gamemaker 2 on Zack Traczyk</description>
     <image>
-      <url>http://xxzbuckxx.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://xxzbuckxx.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://xxzbuckxx.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xxzbuckxx.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2019 11:30:03 +0000</lastBuildDate><atom:link href="http://xxzbuckxx.github.io/Blog/tags/gamemaker-2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Oct 2019 11:30:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/gamemaker-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game - Ralph&#39;s Space Quest</title>
-      <link>http://xxzbuckxx.github.io/Blog/posts/game-ralphs-space-quest/</link>
+      <link>https://xxzbuckxx.github.io/Blog/posts/game-ralphs-space-quest/</link>
       <pubDate>Mon, 21 Oct 2019 11:30:03 +0000</pubDate>
       
-      <guid>http://xxzbuckxx.github.io/Blog/posts/game-ralphs-space-quest/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/posts/game-ralphs-space-quest/</guid>
       <description>A 2d-platformer shooter set on an extraterrestrial planet.</description>
     </item>
     
