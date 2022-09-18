@@ -10,23 +10,253 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 12:39:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Aug 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3D visualization - Points on Sphere</title>
+      <title>Game - Blob Mob</title>
+      <link>https://xxzbuckxx.github.io/Blog/posts/game-blob-mob/</link>
+      <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/posts/game-blob-mob/</guid>
+      <description>An arcade style web game with account account authentication.</description>
+      <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
+<p>This game was one of my first coding projects, and I originally made it using a single file of javascript and some boilerplate HTML.</p>
+<p>The game has evolved a lot since then, using typescript for the core game and React for the UI components.</p>
+<p>A web game I designed with a global leaderboard, an upgrade shop, and account functionality to save progress. The top down arcade was fully designed and implemented by me.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Under Metric System</title>
+      <link>https://xxzbuckxx.github.io/Blog/posts/under-metric-system/</link>
+      <pubDate>Mon, 18 Jul 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/posts/under-metric-system/</guid>
+      <description>Under.io Internship Dashboard Project</description>
+      <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
+<p>During my 2022 internship with <a href="https://under.io">Under.io</a> I was tasked with making an interactive dashboard.</p>
+<p>At a startup, it is crucial to understand where the business is at. That is why I was tasked with building an admin dashboard that displayed important site metrics and allowed easy access of customer data.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>3D Visualization - Points On Sphere</title>
       <link>https://xxzbuckxx.github.io/Blog/posts/3d-visualization-points-on-sphere/</link>
       <pubDate>Thu, 05 May 2022 12:39:03 +0000</pubDate>
       
       <guid>https://xxzbuckxx.github.io/Blog/posts/3d-visualization-points-on-sphere/</guid>
       <description>A web project that generates 3d points on a sphere.</description>
+      <content:encoded><![CDATA[<p>tags: <a href="/posts/threejs">ThreeJS</a> <a href="/posts/javascript">JavaScript</a> <a href="/posts/nodejs">NodeJS</a>
+title: &ldquo;3D visualization - Points on Sphere&rdquo;</p>
+<h2 id="concept">Concept</h2>
+<p>This is a visualization for an algorithm that distributes points evenly on a sphere. My first attempts were at implementing the algorithm myself using <a href="https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere/44164075#44164075">this stackoverflow post</a>. However, I did not quite get the visualization I wanted, so I used <a href="https://gitiub.com/SebLague/Boids/blob/master/Assets/Scripts/BoidHelper.cs">Sebastion Lague&rsquo;s implementation</a> instead.</p>
+<ul>
+<li><em><a href="https://xxzbuckxx.github.io/Points-On-Sphere/">See Visualization Here</a></em></li>
+<li><em><a href="https://github.com/xxzbuckxx/Points-On-Sphere">See Code Here</a></em></li>
+</ul>
+<h2 id="references">References</h2>
+<ol>
+<li><a href="https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere/44164075#44164075">Stackoverflow post</a></li>
+<li><a href="https://gitiub.com/SebLague/Boids/blob/master/Assets/Scripts/BoidHelper.cs">Sebastion Lague&rsquo;s implementation</a></li>
+</ol>
+]]></content:encoded>
     </item>
     
     <item>
-      <title>3D visualization - Boids</title>
+      <title>3D Visualization - Boids</title>
       <link>https://xxzbuckxx.github.io/Blog/posts/3d-visualization-boids/</link>
       <pubDate>Wed, 23 Feb 2022 16:11:03 +0000</pubDate>
       
       <guid>https://xxzbuckxx.github.io/Blog/posts/3d-visualization-boids/</guid>
       <description>Simulating flocking behavior in the browser.</description>
+      <content:encoded><![CDATA[<p>type: #work #project
+tags: <a href="/posts/javascript">JavaScript</a> <a href="/posts/dsi">DSI</a> <a href="/posts/3d-modeling">3d modeling</a> <a href="/posts/complexity-theory">complexity theory</a></p>
+<p><em>Note: This was one of my <a href="/posts/dsi-long-term-project-ideas">DSI Long-Term Project Ideas</a></em>
+title: &ldquo;3D visualization - Boids&rdquo;</p>
+<h2 id="concept">Concept</h2>
+<p>Using the 3D visualization tools in the <a href="/posts/dsi">DSI</a> I plan to make an interactive visualization. Specifically I plan to replicate flocking behavior using <a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html">Boids</a>, an <a href="/posts/emergence">emerging phenomena</a> and example of <a href="/posts/complexity-theory">complexity theory</a>.</p>
+<p>I hope to use the <a href="https://lookingglassfactory.com/">Looking Glass Portrait</a>, and the Looking Glass 4K to display my simulation in holographic 3D space. Additionally, I plan to use <a href="https://www.ultraleap.com/">Ultraleap</a> to interact with the by tracking a hand in open air.</p>
+<p><strong><em><a href="https://xxzbuckxx.github.io/Boid-Simulation/">Here is my non-holographic demo.</a></em></strong></p>
+<h3 id="equipment">Equipment</h3>
+<ul>
+<li><a href="https://lookingglassfactory.com/product/4k">Looking Glass</a></li>
+</ul>
+<hr>
+<h2 id="project-log">Project Log</h2>
+<p><em>I documented my progress on this project below. Although this is not meant to be a guide, it can be used as one given some experience in JavaScript and the code provided at the beginning of each update.</em></p>
+<hr>
+<h3 id="22-02-23-software-compatibility--threejs-setup">22-02-23 Software Compatibility &amp; ThreeJS Setup</h3>
+<p><em><a href="https://github.com/xxzbuckxx/Boid-Simulation/tree/f31846cb2795a78cbaee435c9951497d7655b99a">Here is the code at the end of this stage</a></em></p>
+<p>First Thing I looked into is the software that allows the looking glass/portrait to visualize things real time. Luckily, HoloPlay (the software that the portrait  uses) has a plugin for <a href="/posts/threejs">ThreeJS</a>, a javascript framework I have a bit of experience in.</p>
+<p><strong><a href="https://medium.com/@alxdncn/getting-started-with-the-holoplayer-three-js-library-86bdbeca351">HoloPlayer ThreeJS Plugin Tutorial</a></strong></p>
+<p>Fortunately, I had already made a 2D vision of a Boid simulation using <a href="/posts/javascript">JavaScript</a> inspired by <a href="https://team.inria.fr/imagine/files/2014/10/flocks-hers-and-schools.pdf">Flocks, Herds, and Schools: A Distributed Behavioral Model</a>. It would take some work as I needed to change rendering engines for HTML5&rsquo;s Canvas to <a href="/posts/threejs">ThreeJS</a>, but the logic of the simulation was already figured out which would greatly reduce the difficulty in making the simulation.</p>
+<p><img loading="lazy" src="/Blog/imgs/22-02-23-boid-simulation.gif" alt="22-02-23 Boid Simulation.gif"  />
+</p>
+<p>After restructuring the project and adding a <a href="/posts/javascript-module-import-maps">import-map</a> to use <a href="/posts/javascript">JavaScript</a> Modules, I made a simple rotating cube animation.</p>
+<p><img loading="lazy" src="/Blog/imgs/22-02-23-threejs-simple-rotating-cube.gif" alt="22-02-23 ThreeJS Simple Rotating Cube.gif"  />
+</p>
+<hr>
+<h3 id="22-02-25-debug-setup-and-naive-boid-movement">22-02-25 Debug Setup and Naive Boid Movement</h3>
+<p><em><a href="https://github.com/xxzbuckxx/Boid-Simulation/tree/e665aad17aae5b6bdae8e2e6f8cf98ec09344b56">Here is the code at the end of this stage</a></em></p>
+<p>Now that the camera and renderer were setup, I began working on animating a single Boid. I used my constructed box as a bounding box to contain the Boids (eventually this bounding box will be the <strong>Looking Glass</strong>). I used my previous 2D Boid Code as a template for the methods and operations I needed, and I kept the same <code>Boid</code>/<code>BoidController</code> structure with my <code>BoidController</code> class needing minor adjustments.</p>
+<h4 id="initializing-a-boid">Initializing a Boid</h4>
+<p>The first thing I did was create a Boid mesh. The geometry of a Boid can be anything; in more practical examples the mesh would be a bird, or a fish. However to simplify debugging I made the mesh a Tetrahedron with the built-in normal material:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">geometry</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">ConeGeometry</span>(<span style="color:#ae81ff">0.05</span>, <span style="color:#ae81ff">0.2</span>, <span style="color:#ae81ff">3</span>);
+<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">material</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">MeshNormalMaterial</span>();
+</code></pre></div><p>Along with the shape, the main Differences in Boid proprieties were representing the position and velocity as a <code>THREE.vector3</code> instead of as individual vector components.</p>
+<p>Since I was now using <a href="/posts/vectors">vectors</a>, most of my code could be easily simplified as <a href="/posts/threejs">ThreeJS</a> has all of the needed vector operations built into their <code>THREE.Vector3</code> class. This left the refactored code looking much cleaner but also took some time and research into using <a href="/posts/threejs">ThreeJS</a> properly.</p>
+<p>Here is how the Boid is initialized now:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#a6e22e">constructor</span>(<span style="color:#a6e22e">x</span>, <span style="color:#a6e22e">y</span>, <span style="color:#a6e22e">z</span>) {
+  <span style="color:#75715e">// Create Mesh
+</span><span style="color:#75715e"></span>  <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">mesh</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">Mesh</span>(<span style="color:#a6e22e">geometry</span>, <span style="color:#a6e22e">material</span>);
+  <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>.<span style="color:#a6e22e">set</span>(<span style="color:#a6e22e">x</span>, <span style="color:#a6e22e">y</span>, <span style="color:#a6e22e">z</span>);
+
+  <span style="color:#75715e">// Randomize velocity
+</span><span style="color:#75715e"></span>  <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">Vector3</span>().<span style="color:#a6e22e">randomDirection</span>();
+  <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">maxSpeed</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0.02</span>
+}
+</code></pre></div><h4 id="moving-a-boid">Moving a Boid</h4>
+<p>Now that Boids can be created, I need them to move and do things. First I made a simple function to randomly place the Boid somewhere in the bounding box. Next I focused on the basic operations in the update loop: moving a Boid according to its velocity, and pointing a Boid in the direction of its velocity.</p>
+<p>These operations only required basic vector operations already implemented in <a href="/posts/threejs">ThreeJS</a>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#75715e">// Update positions
+</span><span style="color:#75715e"></span><span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>.<span style="color:#a6e22e">add</span>(<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>);
+
+<span style="color:#75715e">// Update direction
+</span><span style="color:#75715e"></span><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">axis</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">Vector3</span>(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">0</span>);
+<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">quaternion</span>.<span style="color:#a6e22e">setFromUnitVectors</span>(<span style="color:#a6e22e">axis</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">clone</span>().<span style="color:#a6e22e">normalize</span>());
+</code></pre></div><p>Now that a Boid can move, it needs to stay below a maximum speed, and stay within a bounding box. To handle speed I again used simple <a href="/posts/threejs">ThreeJS</a> methods to clamp the speed of a Boid. Then to keep inside the bounding Box, I implemented a function <code>pushOnScreen(boundary)</code> that checks if the position of a Boid exceeds the box boundary subtracted by a margin. I adjust each component of the velocity vector by a turning factor to steer away from the wall and back towards the center.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">boundingBox</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">Box3</span>().<span style="color:#a6e22e">setFromObject</span>(<span style="color:#a6e22e">boundary</span>);
+<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">origin</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">boundingBox</span>.<span style="color:#a6e22e">min</span>;
+<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">size</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">Vector3</span>();
+<span style="color:#a6e22e">boundingBox</span>.<span style="color:#a6e22e">getSize</span>(<span style="color:#a6e22e">size</span>);
+
+<span style="color:#75715e">// x component
+</span><span style="color:#75715e"></span><span style="color:#66d9ef">if</span> (<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">origin</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">+</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">margin</span>)
+    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">+=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">turnFactor</span>;
+<span style="color:#66d9ef">else</span> <span style="color:#66d9ef">if</span> (<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">&gt;</span> <span style="color:#a6e22e">origin</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">size</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">-</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">margin</span>)
+    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">-=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">turnFactor</span>;
+
+<span style="color:#75715e">// y &amp; z components are the same
+</span></code></pre></div><p>After making some debug methods and camera controls, I can now spawn a Boid that moves within a box:</p>
+<p><img loading="lazy" src="/Blog/imgs/22-02-25-threejs-single-boid-debug.gif" alt="22-02-25 ThreeJS Single Boid Debug.gif"  />
+</p>
+<p>Spawning multiple Boids makes the animation already has some <em>~pizzaz~</em>:</p>
+<p><img loading="lazy" src="/Blog/imgs/22-02-25-threejs-100-naive-boids.gif" alt="22-02-25 ThreeJS 100 Naive Boids.gif"  />
+</p>
+<p>Finally, I implemented the other rules of Boids using the same component approach as the 2D implementation. This is bad because computing vector components this way uses the CPU with each calculation being one at a time. I think A better implementation would take advantage of <a href="/posts/threejs">ThreeJS</a> <a href="/posts/vectors">vector</a> operations. The code would be cleaner as vector operations would be one line and done as ThreeJS intended. However, for even faster computations I may need to implement <a href="https://medium.com/techtrument/multithreading-javascript-46156179cf9a">JavaScript workers</a> or run vector computations on the GPU.</p>
+<p>Regardless, here are some working swarms with different meshes and other small tweaks:</p>
+<p><img loading="lazy" src="/Blog/imgs/22-02-25-threejs-boids-working.gif" alt="22-02-25 ThreeJS Boids Working.gif"  />
+
+<img loading="lazy" src="/Blog/imgs/22-02-25-threejs-boids-working-strawmesh.gif" alt="22-02-25 ThreeJS Boids Working StrawMesh.gif"  />
+
+<img loading="lazy" src="/Blog/imgs/22-02-27-threejs-boids-working-fog.gif" alt="22-02-27 ThreeJS Boids Working Fog.gif"  />
+</p>
+<hr>
+<h3 id="22-02-25-optimization">22-02-25 Optimization</h3>
+<p><em><a href="https://github.com/xxzbuckxx/Boid-Simulation/tree/09a6cd0c333b5c2a871a5e14c89abc848917705e">Here is the code at the end of this stage</a></em></p>
+<p>As I have stated before, there are a few ways to optimize the simulation so I can render more Boids with less work from the computer. There are 2 main things I can do:</p>
+<ol>
+<li>Optimize vertex computations - Perform all vertex operations in one loop, instead of three functions</li>
+<li>Optimize draw calls - Since all the Boids are the same mesh, <a href="/posts/threejs">ThreeJS</a> has a special mesh instance that can draw all of them in one call</li>
+</ol>
+<p>First I rewrote the Boid methods to use <a href="/posts/threejs">ThreeJS</a> <a href="/posts/vectors">vector</a> operations instead of &ldquo;manual&rdquo; component computations. After the three methods were reimplemented, I combined them into one single method, <code>sim(boids)</code>, that  enacted all three forces in a single loop. This improved performance as the algorithm was running through every Boid three times per Boid before, and now is only running through every Boid once per Boid.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">let</span> <span style="color:#a6e22e">neighbors</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">match</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">Vector3</span>();
+<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">center</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">Vector3</span>();
+<span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">otherBoid</span> <span style="color:#66d9ef">of</span> <span style="color:#a6e22e">boids</span>) {
+    <span style="color:#66d9ef">if</span> (<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">distance</span>(<span style="color:#a6e22e">otherBoid</span>) <span style="color:#f92672">&gt;=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">field</span>) <span style="color:#66d9ef">continue</span>;
+
+    <span style="color:#a6e22e">neighbors</span><span style="color:#f92672">++</span>;
+
+    <span style="color:#75715e">// Avoid Others (separation)
+</span><span style="color:#75715e"></span>    <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">otherBoid</span> <span style="color:#f92672">!==</span> <span style="color:#66d9ef">this</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">distance</span>(<span style="color:#a6e22e">otherBoid</span>) <span style="color:#f92672">&lt;</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">minSeperation</span>) {
+        <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">avoid</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">clone</span>().<span style="color:#a6e22e">sub</span>(<span style="color:#a6e22e">otherBoid</span>.<span style="color:#a6e22e">vel</span>)
+        <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">addScaledVector</span>(<span style="color:#a6e22e">avoid</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">avoidFactor</span>); <span style="color:#75715e">// apply avoid force
+</span><span style="color:#75715e"></span>    }
+
+    <span style="color:#75715e">// Match (alignment)
+</span><span style="color:#75715e"></span>    <span style="color:#a6e22e">match</span>.<span style="color:#a6e22e">add</span>(<span style="color:#a6e22e">otherBoid</span>.<span style="color:#a6e22e">vel</span>)
+
+    <span style="color:#75715e">// Center (cohesion)
+</span><span style="color:#75715e"></span>    <span style="color:#a6e22e">center</span>.<span style="color:#a6e22e">add</span>(<span style="color:#a6e22e">otherBoid</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>);
+}
+
+<span style="color:#75715e">// Apply Match Force
+</span><span style="color:#75715e"></span><span style="color:#a6e22e">match</span>.<span style="color:#a6e22e">add</span>(<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>);
+<span style="color:#a6e22e">match</span>.<span style="color:#a6e22e">divideScalar</span>(<span style="color:#a6e22e">neighbors</span>);
+<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">addScaledVector</span>(<span style="color:#a6e22e">match</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">matchFactor</span>);
+
+<span style="color:#75715e">// Apply Center Force
+</span><span style="color:#75715e"></span><span style="color:#a6e22e">center</span>.<span style="color:#a6e22e">divideScalar</span>(<span style="color:#a6e22e">neighbors</span>);
+<span style="color:#a6e22e">center</span>.<span style="color:#a6e22e">sub</span>(<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>);
+<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">addScaledVector</span>(<span style="color:#a6e22e">center</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">centeringFactor</span>);
+
+</code></pre></div><p>Second, I tried optimizing the mesh drawing, into a single GPU draw call. Since all the meshes are the same, I wanted to use <code>THREE.InstancedMesh</code> in <a href="/posts/threejs">ThreeJS</a>. I got multiple meshes to render successfully, but I could not figure out a position transformation on a single mesh. After a lot of struggling I gave up, as the draw calls do not seem to be much of a bottle neck, and it was not worth the pain to try and figure it out. I will probably revisit this when I start importing more complicated meshes but for now I am leaving it alone.</p>
+<p>Now the total amount my computer could render before lagging and heating up went from 300 Boids to 800 Boids.</p>
+<hr>
+<h3 id="22-02-25-ocean-feel-and-code-cleanup">22-02-25 Ocean Feel and Code Cleanup</h3>
+<p><em><a href="https://github.com/xxzbuckxx/Boid-Simulation/tree/a4d11387252f5c577eb8c3c6a74b34e745bcf890">Here is the Code at the end of this stage</a></em></p>
+<p>Now that I can simulate flocking and my computer does not light on fire, I want to apply this simulation in a scenario. So why not simulate fish?</p>
+<p>First I added some debugging tools using <a href="https://github.com/dataarts/dat.gui">dat.gui</a>. This way I could adjust the parameters of a flock easily and see the changes real time.</p>
+<p>Now I focused on the scene. I added a yellow plane at the bottom of the bounding box and changed the color of the fog to blue. Then I expanded the bounding box and camera depth to make the scene feel more like an ocean.</p>
+<p>Next I wanted to be able to simulate different kinds of fish, possibly with different attributes and colors. To do this I just made another Boid controller. This way Boids would only be affected by the other Boids in their flock, meaning different types of fish will not try to swim together. One problem with this solution is that flocks will not try to avoid other flocks, the meshes will past straight through each other. However, this is not a big concern for me right now so maybe I&rsquo;ll come back to it later.</p>
+<p>Here is how the simulation looks now:</p>
+<p><img loading="lazy" src="/Blog/imgs/22-03-02-threejs-boids-2-flock-basic-ocean.gif" alt="22-03-02 ThreeJS Boids 2 Flock Basic Ocean.gif"  />
+</p>
+<p>With all these changes to the scene, the initialization function (<code>Init()</code>) became really dense and hard to read. It was about time to make a <code>World</code> class that would store the various world elements and their initialization.</p>
+<p>The following objects are contained in the <code>World</code> instance called <code>ocean</code>:</p>
+<ol>
+<li>Scene</li>
+<li>Camera</li>
+<li>Light</li>
+<li>Fog</li>
+<li>Bounding Box</li>
+<li>Renderer</li>
+<li>Camera Controls</li>
+</ol>
+<p>Each of these objects has its own initialization method, to make the main <code>World</code> constructor easier to understand as well.</p>
+<p>In addition to separating some of the initialization from <code>main.js</code>, I also gave the <code>BoidController</code> class its own file, instead of keeping it at the bottom of <code>boid.js</code>.</p>
+<hr>
+<h3 id="22-03-07-importing-models">22-03-07 Importing Models</h3>
+<p>The next step in making my simulation look more like the ocean is actually importing the fish models. Luckily, <a href="/posts/threejs">ThreeJS</a> has a module to import 3D models from a variety of 3D formats. The format I will be using is glTF 2.0 (<a href="https://godotengine.org/article/we-should-all-use-gltf-20-export-3d-assets-game-engines">here is why</a>) so I downloaded the and setup the <a href="/posts/threejs">ThreeJS</a> <a href="https://threejs.org/manual/#en/load-gltf">glTF Loader Module</a>.</p>
+<p>All I needed to do was load the model in, then clone the Model for each Boid instance to store. This should have been a simple step but I had a bit of difficulty because I did not read enough into the documentation. In the <a href="/posts/threejs">ThreeJS</a> loader I was using it loaded things asynchronously, meaning <a href="/posts/javascript">JavaScript</a> would create a task to load the model, but continue to animate and execute code why the model loaded in the background.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">loader</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">GLTFLoader</span>();
+<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">fishData</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">await</span> <span style="color:#a6e22e">loader</span>.<span style="color:#a6e22e">loadAsync</span>(<span style="color:#e6db74">&#39;../models/logo.glb&#39;</span>);
+<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">fishMesh</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">fishData</span>.<span style="color:#a6e22e">scene</span>.<span style="color:#a6e22e">children</span>[<span style="color:#ae81ff">0</span>];
+<span style="color:#66d9ef">return</span> { <span style="color:#a6e22e">fishMesh</span> }
+</code></pre></div><p>This is obviously helpful most cases where you want to reduce loading lag. Usually you do not want your whole program to halt completely while it loads in a bunch of data. However, to initialize and animate a Boid, the model needed to be initialized first. The mesh holds the position data so the position cannot be changed until the mesh exists. To solve this issue I used the <code>await</code> keyword to insure the import finishes before the rest of the initialization code is executed.</p>
+<p>For the test fish 3D Model I used blender to convert a STL file into a glTF. I used the UCSC letters model from my <a href="/posts/3d-print---ucsc-word">3D Print - UCSC Word</a> project. After scaling and adjusting some world values, the result looks like so:</p>
+<p><img loading="lazy" src="/Blog/imgs/22-03-07-threejs-boids-2-flock-ucsc-model.gif" alt="22-03-07 ThreeJS Boids 2 Flock UCSC Model.gif"  />
+</p>
+<hr>
+<h3 id="22-04-22-code-refactor-and-gui-update">22-04-22 Code Refactor and GUI Update</h3>
+<p><a href="https://github.com/xxzbuckxx/Boid-Simulation/tree/060319d00bc5566329b232d01fbae34d7495d0f6">Here is the code at the end of this stage</a></p>
+<p>As the simulation is nearly finished, it was time to figure out the logistics of interfacing Holoplay (the holographic display software) with my simulation. I knew that <a href="/posts/threejs">ThreeJS</a> would work with the software but I had to think about the easiest way to do this. At the same time, I looked over my <a href="/posts/javascript">Javascript</a> modules and I didn&rsquo;t like my long import map in my index. Although I loved the simplicity of vanilla Javascript, it was about time to put some more infrastructure behind my code.</p>
+<p>I decided to refactor my code and use <a href="/posts/typescript">Typescript</a> with <a href="/posts/nodejs">NodeJS</a>. Dealing with all the different types of meshes and geometries and various objects being passed through functions it would definitely help to have a strongly typed language to stop me from making silly mistakes. I decided to use <a href="/posts/vite">Vite</a> to bundle my <a href="/posts/typescript">Typescript</a> into a static site. I have heard a lot of good things about <a href="/posts/vite">Vite</a> and I wouldn&rsquo;t a simple web bundler that did not require much configuration. Not that I was using Node I imported <a href="/posts/threejs">ThreeJS</a> and its extensions through <a href="/posts/npm">Npm</a> instead of using downloaded releases.</p>
+<p>After all the refactoring, I decided to redo the GUI that controlled the Boid Parameters. I did not like how it was so cluttered, and I wanted the separation, alignment, and cohesion to be clearly distinct with one value each. Here is the old GUI:</p>
+<p><img loading="lazy" src="/Blog/imgs/22-04-22-old-ui.png" alt="22-04-22 Old UI.png"  />
+</p>
+<p>First I got rid of the avoidFactor attribute and instead made it equal to <code>2*this.attributes.maxSpeed/100*this.attributes.minSeperation</code>. This way the avoid factor would scale with the speed and separation distance instead of being a manually controlled parameter. This allowed me to get rid of the subfolders in the GUI making the overall interface a lot cleaner.</p>
+<p>Next, I decided to scale my Boid attributes to have more sensible parameters. The decimal representations were not very pretty and it was confusing that the centeringFactor was 100x smaller than everything else. I spent some time making good coefficients to this attributes, so that the scales would all be from 1 to 10, except for the maxSpeedY which was a ratio of the total speed from 0 to 1. With all of this implemented I renamed the attributes to their original terms and the updated GUI looked a lot cleaner and was a lot more satisfying to control:</p>
+<p><img loading="lazy" src="/Blog/imgs/22-04-22-new-ui.png" alt="22-04-22 New UI.png"  />
+</p>
+<p>Finally, I decided to do some Git cleanup and add this log to the Github. I wanted the repo to contain all the information about the project so I uploaded the images and this README. Then I merged the 3D branch into the <code>main</code>, and created a <code>gh-pages</code> branch to designate for the static site to be displayed.</p>
+<hr>
+<h3 id="22-05-24-vickys-fish">22-05-24 Vicky&rsquo;s Fish</h3>
+<p><a href="">Here is the code at the end of this stage</a></p>
+<p>Finally I have fish! Thanks to Vicky from the DSC, I finally have 3D fish models to represent my boids. Here they are imported into the simulation:</p>
+<p><img loading="lazy" src="/Blog/imgs/22-05-24-vicky-fish-first-import.gif" alt="22-05-24 Vicky Fish First Import.gif"  />
+</p>
+<p>One thing I need to address is the material on the fish. Flat shading like this makes them sort of resemble blobs and takes away from the excellent modeling work that was done. Either I need to add texture, or change the material and lighting for the scene.</p>
+<hr>
+<h2 id="references">References</h2>
+<ol>
+<li><a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html">boid simulation</a></li>
+<li><a href="https://github.com/xxzbuckxx/Boid-Simulation">Boid Github Repository</a></li>
+<li><a href="https://developer-archive.leapmotion.com/gallery/touch-with-webgl-leap-motion">Leap Motion WebGL Demo</a></li>
+<li><a href="https://github.com/motdotla/writings/blob/master/articles/posts/beginners-guide-to-leap-motion-with-nodejs.md">Leap Motion Tutorial</a></li>
+<li><a href="https://web.archive.org/web/20210531135555/http://www.fishgl.com/">Something to Aspire to?</a></li>
+</ol>
+]]></content:encoded>
     </item>
     
     <item>
@@ -36,6 +266,9 @@
       
       <guid>https://xxzbuckxx.github.io/Blog/posts/game-ralphs-space-quest/</guid>
       <description>A 2d-platformer shooter set on an extraterrestrial planet.</description>
+      <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
+<p>A 2d-platformer shooter set on an extraterrestrial planet. Besides some help with a few visual assets, programming, design, and music was done by me.</p>
+]]></content:encoded>
     </item>
     
   </channel>

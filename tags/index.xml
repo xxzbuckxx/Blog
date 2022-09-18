@@ -10,7 +10,97 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 12:39:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Aug 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firebase</title>
+      <link>https://xxzbuckxx.github.io/Blog/tags/firebase/</link>
+      <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/tags/firebase/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Fullstack</title>
+      <link>https://xxzbuckxx.github.io/Blog/tags/fullstack/</link>
+      <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/tags/fullstack/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://xxzbuckxx.github.io/Blog/tags/game/</link>
+      <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/tags/game/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://xxzbuckxx.github.io/Blog/tags/project/</link>
+      <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/tags/project/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://xxzbuckxx.github.io/Blog/tags/react/</link>
+      <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/tags/react/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>https://xxzbuckxx.github.io/Blog/tags/typescript/</link>
+      <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/tags/typescript/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Vite</title>
+      <link>https://xxzbuckxx.github.io/Blog/tags/vite/</link>
+      <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/tags/vite/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>https://xxzbuckxx.github.io/Blog/tags/aws/</link>
+      <pubDate>Mon, 18 Jul 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/tags/aws/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>SASS</title>
+      <link>https://xxzbuckxx.github.io/Blog/tags/sass/</link>
+      <pubDate>Mon, 18 Jul 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/tags/sass/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
     <item>
       <title>3D Visualization</title>
       <link>https://xxzbuckxx.github.io/Blog/tags/3d-visualization/</link>
@@ -18,6 +108,7 @@
       
       <guid>https://xxzbuckxx.github.io/Blog/tags/3d-visualization/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -27,42 +118,7 @@
       
       <guid>https://xxzbuckxx.github.io/Blog/tags/dsi/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>https://xxzbuckxx.github.io/Blog/tags/project/</link>
-      <pubDate>Thu, 05 May 2022 12:39:03 +0000</pubDate>
-      
-      <guid>https://xxzbuckxx.github.io/Blog/tags/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Typescript</title>
-      <link>https://xxzbuckxx.github.io/Blog/tags/typescript/</link>
-      <pubDate>Thu, 05 May 2022 12:39:03 +0000</pubDate>
-      
-      <guid>https://xxzbuckxx.github.io/Blog/tags/typescript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vite</title>
-      <link>https://xxzbuckxx.github.io/Blog/tags/vite/</link>
-      <pubDate>Thu, 05 May 2022 12:39:03 +0000</pubDate>
-      
-      <guid>https://xxzbuckxx.github.io/Blog/tags/vite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>https://xxzbuckxx.github.io/Blog/tags/game/</link>
-      <pubDate>Mon, 21 Oct 2019 11:30:03 +0000</pubDate>
-      
-      <guid>https://xxzbuckxx.github.io/Blog/tags/game/</guid>
-      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
@@ -72,6 +128,7 @@
       
       <guid>https://xxzbuckxx.github.io/Blog/tags/gamemaker-2/</guid>
       <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
   </channel>

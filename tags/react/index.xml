@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>React on Zack Traczyk</title>
+    <link>https://xxzbuckxx.github.io/Blog/tags/react/</link>
+    <description>Recent content in React on Zack Traczyk</description>
+    <image>
+      <url>https://xxzbuckxx.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xxzbuckxx.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Aug 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game - Blob Mob</title>
+      <link>https://xxzbuckxx.github.io/Blog/posts/game-blob-mob/</link>
+      <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/posts/game-blob-mob/</guid>
+      <description>An arcade style web game with account account authentication.</description>
+      <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
+<p>This game was one of my first coding projects, and I originally made it using a single file of javascript and some boilerplate HTML.</p>
+<p>The game has evolved a lot since then, using typescript for the core game and React for the UI components.</p>
+<p>A web game I designed with a global leaderboard, an upgrade shop, and account functionality to save progress. The top down arcade was fully designed and implemented by me.</p>
+]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Under Metric System</title>
+      <link>https://xxzbuckxx.github.io/Blog/posts/under-metric-system/</link>
+      <pubDate>Mon, 18 Jul 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/posts/under-metric-system/</guid>
+      <description>Under.io Internship Dashboard Project</description>
+      <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
+<p>During my 2022 internship with <a href="https://under.io">Under.io</a> I was tasked with making an interactive dashboard.</p>
+<p>At a startup, it is crucial to understand where the business is at. That is why I was tasked with building an admin dashboard that displayed important site metrics and allowed easy access of customer data.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
