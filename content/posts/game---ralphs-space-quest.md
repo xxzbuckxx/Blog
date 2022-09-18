@@ -35,6 +35,4 @@ cover:
 
 ## Concept
 
-Ralph's Space Quest is a 2D platformer.
-
--
+A 2d-platformer shooter set on an extraterrestrial planet. Besides some help with a few visual assets, programming, design, and music was done by me.
