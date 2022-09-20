@@ -1,5 +1,5 @@
 ---
-title: Under Metric System
+title: Project - Under Metric System
 date: 2022-07-18T16:11:03+00:00
 tags: ["Project", "Fullstack", "Typescript", "React", "SASS", "AWS"]
 author: "Zack Traczyk"
@@ -18,6 +18,8 @@ cover:
   alt: "Under Metric Dashboard" # alt text
   # caption: "An early simulation prototype."
 ---
+
+## Demo
 
 ## Concept
 
