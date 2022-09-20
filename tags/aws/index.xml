@@ -12,13 +12,14 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Jul 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Under Metric System</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/under-metric-system/</link>
+      <title>Project - Under Metric System</title>
+      <link>https://xxzbuckxx.github.io/Blog/posts/project-under-metric-system/</link>
       <pubDate>Mon, 18 Jul 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/under-metric-system/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/posts/project-under-metric-system/</guid>
       <description>Under.io Internship Dashboard Project</description>
-      <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
+      <content:encoded><![CDATA[<h2 id="demo">Demo</h2>
+<h2 id="concept">Concept</h2>
 <p>During my 2022 internship with <a href="https://under.io">Under.io</a> I was tasked with making an interactive dashboard.</p>
 <p>At a startup, it is crucial to understand where the business is at. That is why I was tasked with building an admin dashboard that displayed important site metrics and allowed easy access of customer data.</p>
 ]]></content:encoded>
