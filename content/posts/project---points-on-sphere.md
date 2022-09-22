@@ -18,16 +18,15 @@ cover:
   alt: "Generated points on a sphere" # alt text
   # caption: "An early simulation prototype."
 ---
-tags: [ThreeJS](/Blog/posts/threejs) [JavaScript](/Blog/posts/javascript) [NodeJS](/Blog/posts/nodejs)
-title: "3D visualization - Points on Sphere"
 
 ## Concept
 
 This is a visualization for an algorithm that distributes points evenly on a sphere. My first attempts were at implementing the algorithm myself using [this stackoverflow post](https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere/44164075#44164075). However, I did not quite get the visualization I wanted, so I used [Sebastion Lague's implementation](https://gitiub.com/SebLague/Boids/blob/master/Assets/Scripts/BoidHelper.cs) instead.
 
-- *[See Visualization Here](https://xxzbuckxx.github.io/Points-On-Sphere/)*
-- *[See Code Here](https://github.com/xxzbuckxx/Points-On-Sphere)*
+- _[See Visualization Here](https://xxzbuckxx.github.io/Points-On-Sphere/)_
+- _[See Code Here](https://github.com/xxzbuckxx/Points-On-Sphere)_
 
 ## References
+
 1. [Stackoverflow post](https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere/44164075#44164075)
 2. [Sebastion Lague's implementation](https://gitiub.com/SebLague/Boids/blob/master/Assets/Scripts/BoidHelper.cs)
