@@ -18,9 +18,7 @@
       
       <guid>https://xxzbuckxx.github.io/Blog/posts/project-points-on-sphere/</guid>
       <description>A web project that generates 3d points on a sphere.</description>
-      <content:encoded><![CDATA[<p>tags: <a href="/Blog/posts/threejs">ThreeJS</a> <a href="/Blog/posts/javascript">JavaScript</a> <a href="/Blog/posts/nodejs">NodeJS</a>
-title: &ldquo;3D visualization - Points on Sphere&rdquo;</p>
-<h2 id="concept">Concept</h2>
+      <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>This is a visualization for an algorithm that distributes points evenly on a sphere. My first attempts were at implementing the algorithm myself using <a href="https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere/44164075#44164075">this stackoverflow post</a>. However, I did not quite get the visualization I wanted, so I used <a href="https://gitiub.com/SebLague/Boids/blob/master/Assets/Scripts/BoidHelper.cs">Sebastion Lague&rsquo;s implementation</a> instead.</p>
 <ul>
 <li><em><a href="https://xxzbuckxx.github.io/Points-On-Sphere/">See Visualization Here</a></em></li>
@@ -41,11 +39,7 @@ title: &ldquo;3D visualization - Points on Sphere&rdquo;</p>
       
       <guid>https://xxzbuckxx.github.io/Blog/posts/project-boids/</guid>
       <description>Simulating flocking behavior in the browser.</description>
-      <content:encoded><![CDATA[<p>type: #work #project
-tags: <a href="/Blog/posts/javascript">JavaScript</a> <a href="/Blog/posts/dsi">DSI</a> <a href="/Blog/posts/3d-modeling">3d modeling</a> <a href="/Blog/posts/complexity-theory">complexity theory</a></p>
-<p><em>Note: This was one of my <a href="/Blog/posts/dsi-long-term-project-ideas">DSI Long-Term Project Ideas</a></em>
-title: &ldquo;3D visualization - Boids&rdquo;</p>
-<h2 id="concept">Concept</h2>
+      <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>Using the 3D visualization tools in the <a href="/posts/dsi">DSI</a> I plan to make an interactive visualization. Specifically I plan to replicate flocking behavior using <a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html">Boids</a>, an <a href="/posts/emergence">emerging phenomena</a> and example of <a href="/posts/complexity-theory">complexity theory</a>.</p>
 <p>I hope to use the <a href="https://lookingglassfactory.com/">Looking Glass Portrait</a>, and the Looking Glass 4K to display my simulation in holographic 3D space. Additionally, I plan to use <a href="https://www.ultraleap.com/">Ultraleap</a> to interact with the by tracking a hand in open air.</p>
 <p><strong><em><a href="https://xxzbuckxx.github.io/Boid-Simulation/">Here is my non-holographic demo.</a></em></strong></p>
@@ -59,7 +53,7 @@ title: &ldquo;3D visualization - Boids&rdquo;</p>
 <hr>
 <h3 id="22-02-23-software-compatibility--threejs-setup">22-02-23 Software Compatibility &amp; ThreeJS Setup</h3>
 <p><em><a href="https://github.com/xxzbuckxx/Boid-Simulation/tree/f31846cb2795a78cbaee435c9951497d7655b99a">Here is the code at the end of this stage</a></em></p>
-<p>First Thing I looked into is the software that allows the looking glass/portrait to visualize things real time. Luckily, HoloPlay (the software that the portrait  uses) has a plugin for <a href="/Blog/posts/threejs">ThreeJS</a>, a javascript framework I have a bit of experience in.</p>
+<p>First Thing I looked into is the software that allows the looking glass/portrait to visualize things real time. Luckily, HoloPlay (the software that the portrait uses) has a plugin for <a href="/Blog/posts/threejs">ThreeJS</a>, a javascript framework I have a bit of experience in.</p>
 <p><strong><a href="https://medium.com/@alxdncn/getting-started-with-the-holoplayer-three-js-library-86bdbeca351">HoloPlayer ThreeJS Plugin Tutorial</a></strong></p>
 <p>Fortunately, I had already made a 2D vision of a Boid simulation using <a href="/Blog/posts/javascript">JavaScript</a> inspired by <a href="https://team.inria.fr/imagine/files/2014/10/flocks-hers-and-schools.pdf">Flocks, Herds, and Schools: A Distributed Behavioral Model</a>. It would take some work as I needed to change rendering engines for HTML5&rsquo;s Canvas to <a href="/Blog/posts/threejs">ThreeJS</a>, but the logic of the simulation was already figured out which would greatly reduce the difficulty in making the simulation.</p>
 <p><img loading="lazy" src="/Blog/imgs/22-02-23-boid-simulation.gif" alt="22-02-23 Boid Simulation.gif"  />
@@ -104,9 +98,9 @@ title: &ldquo;3D visualization - Boids&rdquo;</p>
 
 <span style="color:#75715e">// x component
 </span><span style="color:#75715e"></span><span style="color:#66d9ef">if</span> (<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">&lt;</span> <span style="color:#a6e22e">origin</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">+</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">margin</span>)
-    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">+=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">turnFactor</span>;
+  <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">+=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">turnFactor</span>;
 <span style="color:#66d9ef">else</span> <span style="color:#66d9ef">if</span> (<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">&gt;</span> <span style="color:#a6e22e">origin</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">size</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">-</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">margin</span>)
-    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">-=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">turnFactor</span>;
+  <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">x</span> <span style="color:#f92672">-=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">turnFactor</span>;
 
 <span style="color:#75715e">// y &amp; z components are the same
 </span></code></pre></div><p>After making some debug methods and camera controls, I can now spawn a Boid that moves within a box:</p>
@@ -131,26 +125,26 @@ title: &ldquo;3D visualization - Boids&rdquo;</p>
 <li>Optimize vertex computations - Perform all vertex operations in one loop, instead of three functions</li>
 <li>Optimize draw calls - Since all the Boids are the same mesh, <a href="/Blog/posts/threejs">ThreeJS</a> has a special mesh instance that can draw all of them in one call</li>
 </ol>
-<p>First I rewrote the Boid methods to use <a href="/Blog/posts/threejs">ThreeJS</a> <a href="/Blog/posts/vectors">vector</a> operations instead of &ldquo;manual&rdquo; component computations. After the three methods were reimplemented, I combined them into one single method, <code>sim(boids)</code>, that  enacted all three forces in a single loop. This improved performance as the algorithm was running through every Boid three times per Boid before, and now is only running through every Boid once per Boid.</p>
+<p>First I rewrote the Boid methods to use <a href="/Blog/posts/threejs">ThreeJS</a> <a href="/Blog/posts/vectors">vector</a> operations instead of &ldquo;manual&rdquo; component computations. After the three methods were reimplemented, I combined them into one single method, <code>sim(boids)</code>, that enacted all three forces in a single loop. This improved performance as the algorithm was running through every Boid three times per Boid before, and now is only running through every Boid once per Boid.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">let</span> <span style="color:#a6e22e">neighbors</span> <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
 <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">match</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">Vector3</span>();
 <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">center</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">THREE</span>.<span style="color:#a6e22e">Vector3</span>();
 <span style="color:#66d9ef">for</span> (<span style="color:#66d9ef">let</span> <span style="color:#a6e22e">otherBoid</span> <span style="color:#66d9ef">of</span> <span style="color:#a6e22e">boids</span>) {
-    <span style="color:#66d9ef">if</span> (<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">distance</span>(<span style="color:#a6e22e">otherBoid</span>) <span style="color:#f92672">&gt;=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">field</span>) <span style="color:#66d9ef">continue</span>;
+  <span style="color:#66d9ef">if</span> (<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">distance</span>(<span style="color:#a6e22e">otherBoid</span>) <span style="color:#f92672">&gt;=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">field</span>) <span style="color:#66d9ef">continue</span>;
 
-    <span style="color:#a6e22e">neighbors</span><span style="color:#f92672">++</span>;
+  <span style="color:#a6e22e">neighbors</span><span style="color:#f92672">++</span>;
 
-    <span style="color:#75715e">// Avoid Others (separation)
-</span><span style="color:#75715e"></span>    <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">otherBoid</span> <span style="color:#f92672">!==</span> <span style="color:#66d9ef">this</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">distance</span>(<span style="color:#a6e22e">otherBoid</span>) <span style="color:#f92672">&lt;</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">minSeperation</span>) {
-        <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">avoid</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">clone</span>().<span style="color:#a6e22e">sub</span>(<span style="color:#a6e22e">otherBoid</span>.<span style="color:#a6e22e">vel</span>)
-        <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">addScaledVector</span>(<span style="color:#a6e22e">avoid</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">avoidFactor</span>); <span style="color:#75715e">// apply avoid force
-</span><span style="color:#75715e"></span>    }
+  <span style="color:#75715e">// Avoid Others (separation)
+</span><span style="color:#75715e"></span>  <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">otherBoid</span> <span style="color:#f92672">!==</span> <span style="color:#66d9ef">this</span> <span style="color:#f92672">&amp;&amp;</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">distance</span>(<span style="color:#a6e22e">otherBoid</span>) <span style="color:#f92672">&lt;</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">minSeperation</span>) {
+    <span style="color:#66d9ef">let</span> <span style="color:#a6e22e">avoid</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">clone</span>().<span style="color:#a6e22e">sub</span>(<span style="color:#a6e22e">otherBoid</span>.<span style="color:#a6e22e">vel</span>);
+    <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">addScaledVector</span>(<span style="color:#a6e22e">avoid</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">avoidFactor</span>); <span style="color:#75715e">// apply avoid force
+</span><span style="color:#75715e"></span>  }
 
-    <span style="color:#75715e">// Match (alignment)
-</span><span style="color:#75715e"></span>    <span style="color:#a6e22e">match</span>.<span style="color:#a6e22e">add</span>(<span style="color:#a6e22e">otherBoid</span>.<span style="color:#a6e22e">vel</span>)
+  <span style="color:#75715e">// Match (alignment)
+</span><span style="color:#75715e"></span>  <span style="color:#a6e22e">match</span>.<span style="color:#a6e22e">add</span>(<span style="color:#a6e22e">otherBoid</span>.<span style="color:#a6e22e">vel</span>);
 
-    <span style="color:#75715e">// Center (cohesion)
-</span><span style="color:#75715e"></span>    <span style="color:#a6e22e">center</span>.<span style="color:#a6e22e">add</span>(<span style="color:#a6e22e">otherBoid</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>);
+  <span style="color:#75715e">// Center (cohesion)
+</span><span style="color:#75715e"></span>  <span style="color:#a6e22e">center</span>.<span style="color:#a6e22e">add</span>(<span style="color:#a6e22e">otherBoid</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>);
 }
 
 <span style="color:#75715e">// Apply Match Force
@@ -162,7 +156,6 @@ title: &ldquo;3D visualization - Boids&rdquo;</p>
 </span><span style="color:#75715e"></span><span style="color:#a6e22e">center</span>.<span style="color:#a6e22e">divideScalar</span>(<span style="color:#a6e22e">neighbors</span>);
 <span style="color:#a6e22e">center</span>.<span style="color:#a6e22e">sub</span>(<span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">mesh</span>.<span style="color:#a6e22e">position</span>);
 <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">vel</span>.<span style="color:#a6e22e">addScaledVector</span>(<span style="color:#a6e22e">center</span>, <span style="color:#66d9ef">this</span>.<span style="color:#a6e22e">centeringFactor</span>);
-
 </code></pre></div><p>Second, I tried optimizing the mesh drawing, into a single GPU draw call. Since all the meshes are the same, I wanted to use <code>THREE.InstancedMesh</code> in <a href="/Blog/posts/threejs">ThreeJS</a>. I got multiple meshes to render successfully, but I could not figure out a position transformation on a single mesh. After a lot of struggling I gave up, as the draw calls do not seem to be much of a bottle neck, and it was not worth the pain to try and figure it out. I will probably revisit this when I start importing more complicated meshes but for now I am leaving it alone.</p>
 <p>Now the total amount my computer could render before lagging and heating up went from 300 Boids to 800 Boids.</p>
 <hr>
@@ -193,9 +186,9 @@ title: &ldquo;3D visualization - Boids&rdquo;</p>
 <p>The next step in making my simulation look more like the ocean is actually importing the fish models. Luckily, <a href="/Blog/posts/threejs">ThreeJS</a> has a module to import 3D models from a variety of 3D formats. The format I will be using is glTF 2.0 (<a href="https://godotengine.org/article/we-should-all-use-gltf-20-export-3d-assets-game-engines">here is why</a>) so I downloaded the and setup the <a href="/Blog/posts/threejs">ThreeJS</a> <a href="https://threejs.org/manual/#en/load-gltf">glTF Loader Module</a>.</p>
 <p>All I needed to do was load the model in, then clone the Model for each Boid instance to store. This should have been a simple step but I had a bit of difficulty because I did not read enough into the documentation. In the <a href="/Blog/posts/threejs">ThreeJS</a> loader I was using it loaded things asynchronously, meaning <a href="/Blog/posts/javascript">JavaScript</a> would create a task to load the model, but continue to animate and execute code why the model loaded in the background.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">const</span> <span style="color:#a6e22e">loader</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> <span style="color:#a6e22e">GLTFLoader</span>();
-<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">fishData</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">await</span> <span style="color:#a6e22e">loader</span>.<span style="color:#a6e22e">loadAsync</span>(<span style="color:#e6db74">&#39;../models/logo.glb&#39;</span>);
+<span style="color:#66d9ef">const</span> <span style="color:#a6e22e">fishData</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">await</span> <span style="color:#a6e22e">loader</span>.<span style="color:#a6e22e">loadAsync</span>(<span style="color:#e6db74">&#34;../models/logo.glb&#34;</span>);
 <span style="color:#66d9ef">const</span> <span style="color:#a6e22e">fishMesh</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">fishData</span>.<span style="color:#a6e22e">scene</span>.<span style="color:#a6e22e">children</span>[<span style="color:#ae81ff">0</span>];
-<span style="color:#66d9ef">return</span> { <span style="color:#a6e22e">fishMesh</span> }
+<span style="color:#66d9ef">return</span> { <span style="color:#a6e22e">fishMesh</span> };
 </code></pre></div><p>This is obviously helpful most cases where you want to reduce loading lag. Usually you do not want your whole program to halt completely while it loads in a bunch of data. However, to initialize and animate a Boid, the model needed to be initialized first. The mesh holds the position data so the position cannot be changed until the mesh exists. To solve this issue I used the <code>await</code> keyword to insure the import finishes before the rest of the initialization code is executed.</p>
 <p>For the test fish 3D Model I used blender to convert a STL file into a glTF. I used the UCSC letters model from my <a href="/Blog/posts/3d-print---ucsc-word">3D Print - UCSC Word</a> project. After scaling and adjusting some world values, the result looks like so:</p>
 <p><img loading="lazy" src="/Blog/imgs/22-03-07-threejs-boids-2-flock-ucsc-model.gif" alt="22-03-07 ThreeJS Boids 2 Flock UCSC Model.gif"  />
