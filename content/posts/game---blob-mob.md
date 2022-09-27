@@ -1,22 +1,12 @@
 ---
 title: Game - Blob Mob
 date: 2022-08-06T16:11:03+00:00
-tags: ["Project", "Game", "Fullstack", "Vite", "Typescript", "React", "Firebase"]
-author: "Zack Traczyk"
-showToc: true
-TocOpen: false
-draft: false
+tags:
+  ["Project", "Game", "Fullstack", "Vite", "Typescript", "React", "Firebase"]
 description: "An arcade style web game with account account authentication."
-# canonicalURL: "https://canonical.url/to/page"
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: false
-ShowRssButtonInSectionTermList: true
 cover:
   image: "imgs/22-08-06-bm-tutorial.jpeg"
   alt: "Blob Mob Game Screenshot" # alt text
-  # caption: "An early simulation prototype."
 ---
 
 ## Concept

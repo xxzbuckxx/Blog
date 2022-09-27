@@ -2,21 +2,10 @@
 title: Project - Points On Sphere
 date: 2022-05-05T12:39:03+00:00
 tags: ["Project", "3D Visualization", "Vite", "Typescript", "DSI"]
-author: "Zack Traczyk"
-showToc: true
-TocOpen: false
-draft: false
 description: "A web project that generates 3d points on a sphere."
-# canonicalURL: "https://canonical.url/to/page"
-ShowReadingTime: false
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: false
-ShowRssButtonInSectionTermList: true
 cover:
-  image: "imgs/22-05-05-points-on-sphere.gif" # image path/url
-  alt: "Generated points on a sphere" # alt text
-  # caption: "An early simulation prototype."
+  image: "imgs/22-05-05-points-on-sphere.gif"
+  alt: "Generated points on a sphere"
 ---
 
 ## Concept

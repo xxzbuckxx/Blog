@@ -2,21 +2,12 @@
 title: Project - Boids
 date: 2022-02-23T16:11:03+00:00
 tags: ["Project", "3D Visualization", "Vite", "Typescript", "DSI"]
-author: "Zack Traczyk"
-showToc: true
-TocOpen: false
-draft: false
 description: "Simulating flocking behavior in the browser."
-# canonicalURL: "https://canonical.url/to/page"
 ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
 ShowWordCount: true
-ShowRssButtonInSectionTermList: true
 cover:
-  image: "imgs/22-03-02-threejs-boids-2-flock-basic-ocean.gif" # image path/url
-  alt: "Boid flocking prototype" # alt text
-  # caption: "An early simulation prototype."
+  image: "imgs/22-03-02-threejs-boids-2-flock-basic-ocean.gif"
+  alt: "Boid flocking prototype"
 ---
 
 ## Concept
