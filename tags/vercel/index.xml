@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vercel on Zack Traczyk</title>
+    <link>https://xxzbuckxx.github.io/Blog/tags/vercel/</link>
+    <description>Recent content in Vercel on Zack Traczyk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Nov 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/vercel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Project - Wall of Garbage</title>
+      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-wall-of-garbage/</link>
+      <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-wall-of-garbage/</guid>
+      <description>A simple demo project for trying out some technologies.</description>
+      <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
+<p>This was a quick demo I made for testing out some technologies I have been curious about. I am currently taking a database class that has coding projects in postgreSQL. For that reason, I wanted to try setting up my own database end accessing it through and API. I decided to use CockroachDB because it is free and easy to setup.</p>
+<ul>
+<li><em><a href="https://xxzbuckxx.github.io/Wall-of-Garbage/">See Demo Here</a></em></li>
+<li><em><a href="https://github.com/xxzbuckxx/Wall-of-Garbage">See Code Here</a></em></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

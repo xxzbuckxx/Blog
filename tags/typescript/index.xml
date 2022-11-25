@@ -6,7 +6,23 @@
     <description>Recent content in Typescript on Zack Traczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Aug 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Nov 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding Project - Wall of Garbage</title>
+      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-wall-of-garbage/</link>
+      <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
+      
+      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-wall-of-garbage/</guid>
+      <description>A simple demo project for trying out some technologies.</description>
+      <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
+<p>This was a quick demo I made for testing out some technologies I have been curious about. I am currently taking a database class that has coding projects in postgreSQL. For that reason, I wanted to try setting up my own database end accessing it through and API. I decided to use CockroachDB because it is free and easy to setup.</p>
+<ul>
+<li><em><a href="https://xxzbuckxx.github.io/Wall-of-Garbage/">See Demo Here</a></em></li>
+<li><em><a href="https://github.com/xxzbuckxx/Wall-of-Garbage">See Code Here</a></em></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Game - Blob Mob</title>
       <link>https://xxzbuckxx.github.io/Blog/posts/game-blob-mob/</link>
@@ -22,11 +38,11 @@
     </item>
     
     <item>
-      <title>Project - Under Metric System</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/project-under-metric-system/</link>
+      <title>Coding Project - Under Metric System</title>
+      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-under-metric-system/</link>
       <pubDate>Mon, 18 Jul 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/project-under-metric-system/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-under-metric-system/</guid>
       <description>Under.io Internship Dashboard Project</description>
       <content:encoded><![CDATA[<h2 id="demo">Demo</h2>
 <h2 id="concept">Concept</h2>
@@ -36,11 +52,11 @@
     </item>
     
     <item>
-      <title>Project - Points On Sphere</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/project-points-on-sphere/</link>
+      <title>Coding Project - Points On Sphere</title>
+      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-points-on-sphere/</link>
       <pubDate>Thu, 05 May 2022 12:39:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/project-points-on-sphere/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-points-on-sphere/</guid>
       <description>A web project that generates 3d points on a sphere.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>This is a visualization for an algorithm that distributes points evenly on a sphere. My first attempts were at implementing the algorithm myself using <a href="https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere/44164075#44164075">this stackoverflow post</a>. However, I did not quite get the visualization I wanted, so I used <a href="https://gitiub.com/SebLague/Boids/blob/master/Assets/Scripts/BoidHelper.cs">Sebastion Lague&rsquo;s implementation</a> instead.</p>
@@ -57,11 +73,11 @@
     </item>
     
     <item>
-      <title>Project - Boids</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/project-boids/</link>
+      <title>Coding Project - Boids</title>
+      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-boids/</link>
       <pubDate>Wed, 23 Feb 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/project-boids/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-boids/</guid>
       <description>Simulating flocking behavior in the browser.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>Using the 3D visualization tools in the <a href="/posts/dsi">DSI</a> I plan to make an interactive visualization. Specifically I plan to replicate flocking behavior using <a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html">Boids</a>, an <a href="/posts/emergence">emerging phenomena</a> and example of <a href="/posts/complexity-theory">complexity theory</a>.</p>

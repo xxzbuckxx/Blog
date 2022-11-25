@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xxzbuckxx.github.io/Blog/tags/firebase/</loc>
-    <lastmod>2022-08-06T16:11:03+00:00</lastmod>
+    <loc>https://xxzbuckxx.github.io/Blog/tags/cockroachdb/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/posts/coding-project-wall-of-garbage/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
   </url><url>
     <loc>https://xxzbuckxx.github.io/Blog/tags/fullstack/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/tags/postgresql/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/posts/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/tags/project/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/tags/react/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/tags/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/tags/typescript/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/tags/vercel/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/tags/vite/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/</loc>
+    <lastmod>2022-11-24T16:11:03+00:00</lastmod>
+  </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/tags/firebase/</loc>
     <lastmod>2022-08-06T16:11:03+00:00</lastmod>
   </url><url>
     <loc>https://xxzbuckxx.github.io/Blog/tags/game/</loc>
@@ -14,31 +47,10 @@
     <loc>https://xxzbuckxx.github.io/Blog/posts/game-blob-mob/</loc>
     <lastmod>2022-08-06T16:11:03+00:00</lastmod>
   </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/posts/</loc>
-    <lastmod>2022-08-06T16:11:03+00:00</lastmod>
-  </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/tags/project/</loc>
-    <lastmod>2022-08-06T16:11:03+00:00</lastmod>
-  </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/tags/react/</loc>
-    <lastmod>2022-08-06T16:11:03+00:00</lastmod>
-  </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/tags/</loc>
-    <lastmod>2022-08-06T16:11:03+00:00</lastmod>
-  </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/tags/typescript/</loc>
-    <lastmod>2022-08-06T16:11:03+00:00</lastmod>
-  </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/tags/vite/</loc>
-    <lastmod>2022-08-06T16:11:03+00:00</lastmod>
-  </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/</loc>
-    <lastmod>2022-08-06T16:11:03+00:00</lastmod>
-  </url><url>
     <loc>https://xxzbuckxx.github.io/Blog/tags/aws/</loc>
     <lastmod>2022-07-18T16:11:03+00:00</lastmod>
   </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/posts/project-under-metric-system/</loc>
+    <loc>https://xxzbuckxx.github.io/Blog/posts/coding-project-under-metric-system/</loc>
     <lastmod>2022-07-18T16:11:03+00:00</lastmod>
   </url><url>
     <loc>https://xxzbuckxx.github.io/Blog/tags/sass/</loc>
@@ -47,29 +59,23 @@
     <loc>https://xxzbuckxx.github.io/Blog/tags/3d-visualization/</loc>
     <lastmod>2022-05-05T12:39:03+00:00</lastmod>
   </url><url>
+    <loc>https://xxzbuckxx.github.io/Blog/posts/coding-project-points-on-sphere/</loc>
+    <lastmod>2022-05-05T12:39:03+00:00</lastmod>
+  </url><url>
     <loc>https://xxzbuckxx.github.io/Blog/tags/dsi/</loc>
     <lastmod>2022-05-05T12:39:03+00:00</lastmod>
   </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/posts/project-points-on-sphere/</loc>
-    <lastmod>2022-05-05T12:39:03+00:00</lastmod>
-  </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/posts/project-boids/</loc>
+    <loc>https://xxzbuckxx.github.io/Blog/posts/coding-project-boids/</loc>
     <lastmod>2022-02-23T16:11:03+00:00</lastmod>
   </url><url>
     <loc>https://xxzbuckxx.github.io/Blog/tags/c/</loc>
     <lastmod>2021-05-11T16:11:03+00:00</lastmod>
   </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/posts/project-lossless-file-compression/</loc>
+    <loc>https://xxzbuckxx.github.io/Blog/posts/coding-project-lossless-file-compression/</loc>
     <lastmod>2021-05-11T16:11:03+00:00</lastmod>
   </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/posts/project-sorting-algorithms/</loc>
+    <loc>https://xxzbuckxx.github.io/Blog/posts/coding-project-sorting-algorithms/</loc>
     <lastmod>2020-04-19T16:11:03+00:00</lastmod>
-  </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/posts/game-ralphs-space-quest/</loc>
-    <lastmod>2019-10-21T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://xxzbuckxx.github.io/Blog/tags/gamemaker-2/</loc>
-    <lastmod>2019-10-21T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://xxzbuckxx.github.io/Blog/archive/</loc>
   </url><url>
