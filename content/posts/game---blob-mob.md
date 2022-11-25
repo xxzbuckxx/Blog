@@ -1,12 +1,11 @@
 ---
 title: Game - Blob Mob
 date: 2022-08-06T16:11:03+00:00
-tags:
-  ["Project", "Game", "Fullstack", "Vite", "Typescript", "React", "Firebase"]
+tags: ["Project", "Game", "Fullstack", "Vite", "Typescript", "React", "Firebase"]
 description: "An arcade style web game with account account authentication."
 cover:
   image: "imgs/22-08-06-bm-tutorial.jpeg"
-  alt: "Blob Mob Game Screenshot" # alt text
+  alt: "Blob Mob Game Screenshot"
 ---
 
 ## Concept
