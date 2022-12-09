@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Zack Traczyk</title>
-    <link>https://xxzbuckxx.github.io/Blog/</link>
+    <link>https://blog.zacktraczyk.com/</link>
     <description>Recent content on Zack Traczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Nov 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Nov 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://blog.zacktraczyk.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding Project - Wall of Garbage</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-wall-of-garbage/</link>
+      <link>https://blog.zacktraczyk.com/posts/coding-project-wall-of-garbage/</link>
       <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-wall-of-garbage/</guid>
+      <guid>https://blog.zacktraczyk.com/posts/coding-project-wall-of-garbage/</guid>
       <description>A simple demo project for trying out some technologies.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>This was a quick demo I made for testing out some technologies I have been curious about. I am currently taking a database class that has coding projects in postgreSQL. For that reason, I wanted to try setting up my own database end accessing it through and API. I decided to use CockroachDB because it is free and easy to setup.</p>
@@ -25,10 +25,10 @@
     
     <item>
       <title>Game - Blob Mob</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/game-blob-mob/</link>
+      <link>https://blog.zacktraczyk.com/posts/game-blob-mob/</link>
       <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/game-blob-mob/</guid>
+      <guid>https://blog.zacktraczyk.com/posts/game-blob-mob/</guid>
       <description>An arcade style web game with account account authentication.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>This game was one of my first coding projects, and I originally made it using a single file of javascript and some boilerplate HTML.</p>
@@ -39,10 +39,10 @@
     
     <item>
       <title>Coding Project - Under Metric System</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-under-metric-system/</link>
+      <link>https://blog.zacktraczyk.com/posts/coding-project-under-metric-system/</link>
       <pubDate>Mon, 18 Jul 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-under-metric-system/</guid>
+      <guid>https://blog.zacktraczyk.com/posts/coding-project-under-metric-system/</guid>
       <description>Under.io Internship Dashboard Project</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>During my 2022 internship with <a href="https://under.io">Under.io</a> I was tasked with making an interactive dashboard.</p>
@@ -52,10 +52,10 @@
     
     <item>
       <title>Coding Project - Points On Sphere</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-points-on-sphere/</link>
+      <link>https://blog.zacktraczyk.com/posts/coding-project-points-on-sphere/</link>
       <pubDate>Thu, 05 May 2022 12:39:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-points-on-sphere/</guid>
+      <guid>https://blog.zacktraczyk.com/posts/coding-project-points-on-sphere/</guid>
       <description>A web project that generates 3d points on a sphere.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>This is a visualization for an algorithm that distributes points evenly on a sphere. My first attempts were at implementing the algorithm myself using <a href="https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere/44164075#44164075">this stackoverflow post</a>. However, I did not quite get the visualization I wanted, so I used <a href="https://gitiub.com/SebLague/Boids/blob/master/Assets/Scripts/BoidHelper.cs">Sebastion Lague&rsquo;s implementation</a> instead.</p>
@@ -73,10 +73,10 @@
     
     <item>
       <title>Coding Project - Boids</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-boids/</link>
+      <link>https://blog.zacktraczyk.com/posts/coding-project-boids/</link>
       <pubDate>Wed, 23 Feb 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-boids/</guid>
+      <guid>https://blog.zacktraczyk.com/posts/coding-project-boids/</guid>
       <description>Simulating flocking behavior in the browser.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>Using the 3D visualization tools in the <a href="/posts/dsi">DSI</a> I plan to make an interactive visualization. Specifically I plan to replicate flocking behavior using <a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html">Boids</a>, an <a href="/posts/emergence">emerging phenomena</a> and example of <a href="/posts/complexity-theory">complexity theory</a>.</p>
@@ -266,10 +266,10 @@
     
     <item>
       <title>Coding Project - Lossless File Compression</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-lossless-file-compression/</link>
+      <link>https://blog.zacktraczyk.com/posts/coding-project-lossless-file-compression/</link>
       <pubDate>Tue, 11 May 2021 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-lossless-file-compression/</guid>
+      <guid>https://blog.zacktraczyk.com/posts/coding-project-lossless-file-compression/</guid>
       <description>Lossless Static File Compression in C.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>A lossless static file compression program in <strong>C</strong> using a <strong>Huffman tree</strong> and a <strong>priority queue</strong>. This project was for a <strong>C</strong> programming lab I took in the spring quarter of my <strong>freshman year at UCSC</strong>.</p>
@@ -278,10 +278,10 @@
     
     <item>
       <title>Coding Project - Sorting Algorithms</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-sorting-algorithms/</link>
+      <link>https://blog.zacktraczyk.com/posts/coding-project-sorting-algorithms/</link>
       <pubDate>Sun, 19 Apr 2020 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-sorting-algorithms/</guid>
+      <guid>https://blog.zacktraczyk.com/posts/coding-project-sorting-algorithms/</guid>
       <description>Concept An implementations of bubble sort, shell sort, quicksort with a stack, and quicksort with a queue. Additionally, a writeup analyzing the produced algorithms was made with LaTeX, a bash script, and GNU Plot.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>An implementations of bubble sort, shell sort, quicksort with a stack, and quicksort with a queue. Additionally, a writeup analyzing the produced algorithms was made with <strong>LaTeX</strong>, a <strong>bash script</strong>, and <strong>GNU Plot</strong>.</p>
