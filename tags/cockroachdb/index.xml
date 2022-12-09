@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CockroachDB on Zack Traczyk</title>
-    <link>https://blog.zacktraczyk.com/tags/cockroachdb/</link>
+    <link>https://xxzbuckxx.github.io/Blog/tags/cockroachdb/</link>
     <description>Recent content in CockroachDB on Zack Traczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Nov 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://blog.zacktraczyk.com/tags/cockroachdb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Nov 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/cockroachdb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding Project - Wall of Garbage</title>
-      <link>https://blog.zacktraczyk.com/posts/coding-project-wall-of-garbage/</link>
+      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-wall-of-garbage/</link>
       <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/posts/coding-project-wall-of-garbage/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-wall-of-garbage/</guid>
       <description>A simple demo project for trying out some technologies.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>This was a quick demo I made for testing out some technologies I have been curious about. I am currently taking a database class that has coding projects in postgreSQL. For that reason, I wanted to try setting up my own database end accessing it through and API. I decided to use CockroachDB because it is free and easy to setup.</p>

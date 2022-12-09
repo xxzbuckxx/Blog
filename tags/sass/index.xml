@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SASS on Zack Traczyk</title>
-    <link>https://blog.zacktraczyk.com/tags/sass/</link>
+    <link>https://xxzbuckxx.github.io/Blog/tags/sass/</link>
     <description>Recent content in SASS on Zack Traczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://blog.zacktraczyk.com/tags/sass/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Jul 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/sass/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding Project - Under Metric System</title>
-      <link>https://blog.zacktraczyk.com/posts/coding-project-under-metric-system/</link>
+      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-under-metric-system/</link>
       <pubDate>Mon, 18 Jul 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/posts/coding-project-under-metric-system/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-under-metric-system/</guid>
       <description>Under.io Internship Dashboard Project</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>During my 2022 internship with <a href="https://under.io">Under.io</a> I was tasked with making an interactive dashboard.</p>

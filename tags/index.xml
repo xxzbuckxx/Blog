@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Zack Traczyk</title>
-    <link>https://blog.zacktraczyk.com/tags/</link>
+    <link>https://xxzbuckxx.github.io/Blog/tags/</link>
     <description>Recent content in Tags on Zack Traczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Nov 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://blog.zacktraczyk.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Nov 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CockroachDB</title>
-      <link>https://blog.zacktraczyk.com/tags/cockroachdb/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/cockroachdb/</link>
       <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/cockroachdb/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/cockroachdb/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Fullstack</title>
-      <link>https://blog.zacktraczyk.com/tags/fullstack/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/fullstack/</link>
       <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/fullstack/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/fullstack/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>PostgreSQL</title>
-      <link>https://blog.zacktraczyk.com/tags/postgresql/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/postgresql/</link>
       <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/postgresql/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/postgresql/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Project</title>
-      <link>https://blog.zacktraczyk.com/tags/project/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/project/</link>
       <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/project/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/project/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>React</title>
-      <link>https://blog.zacktraczyk.com/tags/react/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/react/</link>
       <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/react/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/react/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Typescript</title>
-      <link>https://blog.zacktraczyk.com/tags/typescript/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/typescript/</link>
       <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/typescript/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/typescript/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Vercel</title>
-      <link>https://blog.zacktraczyk.com/tags/vercel/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/vercel/</link>
       <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/vercel/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/vercel/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Vite</title>
-      <link>https://blog.zacktraczyk.com/tags/vite/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/vite/</link>
       <pubDate>Thu, 24 Nov 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/vite/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/vite/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Firebase</title>
-      <link>https://blog.zacktraczyk.com/tags/firebase/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/firebase/</link>
       <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/firebase/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/firebase/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Game</title>
-      <link>https://blog.zacktraczyk.com/tags/game/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/game/</link>
       <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/game/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/game/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>AWS</title>
-      <link>https://blog.zacktraczyk.com/tags/aws/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/aws/</link>
       <pubDate>Mon, 18 Jul 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/aws/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/aws/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>SASS</title>
-      <link>https://blog.zacktraczyk.com/tags/sass/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/sass/</link>
       <pubDate>Mon, 18 Jul 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/sass/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/sass/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>3D Visualization</title>
-      <link>https://blog.zacktraczyk.com/tags/3d-visualization/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/3d-visualization/</link>
       <pubDate>Thu, 05 May 2022 12:39:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/3d-visualization/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/3d-visualization/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>DSI</title>
-      <link>https://blog.zacktraczyk.com/tags/dsi/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/dsi/</link>
       <pubDate>Thu, 05 May 2022 12:39:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/dsi/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/dsi/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>C</title>
-      <link>https://blog.zacktraczyk.com/tags/c/</link>
+      <link>https://xxzbuckxx.github.io/Blog/tags/c/</link>
       <pubDate>Tue, 11 May 2021 16:11:03 +0000</pubDate>
       
-      <guid>https://blog.zacktraczyk.com/tags/c/</guid>
+      <guid>https://xxzbuckxx.github.io/Blog/tags/c/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
