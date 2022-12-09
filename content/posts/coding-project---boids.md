@@ -6,8 +6,8 @@ description: "Simulating flocking behavior in the browser."
 ShowReadingTime: true
 ShowWordCount: true
 cover:
-  image: "imgs/22-03-02-threejs-boids-2-flock-basic-ocean.gif"
-  alt: "Boid flocking prototype"
+    image: "imgs/22-03-02-threejs-boids-2-flock-basic-ocean.gif"
+    alt: "Boid flocking prototype"
 ---
 
 ## Concept
@@ -34,15 +34,15 @@ _I documented my progress on this project below. Although this is not meant to b
 
 _[Here is the code at the end of this stage](https://github.com/xxzbuckxx/Boid-Simulation/tree/f31846cb2795a78cbaee435c9951497d7655b99a)_
 
-First Thing I looked into is the software that allows the looking glass/portrait to visualize things real time. Luckily, HoloPlay (the software that the portrait uses) has a plugin for [ThreeJS](/Blog/posts/threejs), a javascript framework I have a bit of experience in.
+First Thing I looked into is the software that allows the looking glass/portrait to visualize things real time. Luckily, HoloPlay (the software that the portrait uses) has a plugin for ThreeJS, a javascript framework I have a bit of experience in.
 
 **[HoloPlayer ThreeJS Plugin Tutorial](https://medium.com/@alxdncn/getting-started-with-the-holoplayer-three-js-library-86bdbeca351)**
 
-Fortunately, I had already made a 2D vision of a Boid simulation using [JavaScript](/Blog/posts/javascript) inspired by [Flocks, Herds, and Schools: A Distributed Behavioral Model](https://team.inria.fr/imagine/files/2014/10/flocks-hers-and-schools.pdf). It would take some work as I needed to change rendering engines for HTML5's Canvas to [ThreeJS](/Blog/posts/threejs), but the logic of the simulation was already figured out which would greatly reduce the difficulty in making the simulation.
+Fortunately, I had already made a 2D vision of a Boid simulation using JavaScript inspired by [Flocks, Herds, and Schools: A Distributed Behavioral Model](https://team.inria.fr/imagine/files/2014/10/flocks-hers-and-schools.pdf). It would take some work as I needed to change rendering engines for HTML5's Canvas to ThreeJS, but the logic of the simulation was already figured out which would greatly reduce the difficulty in making the simulation.
 
 ![22-02-23 Boid Simulation.gif](/Blog/imgs/22-02-23-boid-simulation.gif)
 
-After restructuring the project and adding a [import-map](/Blog/posts/javascript-module-import-maps) to use [JavaScript](/Blog/posts/javascript) Modules, I made a simple rotating cube animation.
+After restructuring the project and adding a import-map to use JavaScript Modules, I made a simple rotating cube animation.
 
 ![22-02-23 ThreeJS Simple Rotating Cube.gif](/Blog/imgs/22-02-23-threejs-simple-rotating-cube.gif)
 
@@ -65,7 +65,7 @@ const material = new THREE.MeshNormalMaterial();
 
 Along with the shape, the main Differences in Boid proprieties were representing the position and velocity as a `THREE.vector3` instead of as individual vector components.
 
-Since I was now using [vectors](/Blog/posts/vectors), most of my code could be easily simplified as [ThreeJS](/Blog/posts/threejs) has all of the needed vector operations built into their `THREE.Vector3` class. This left the refactored code looking much cleaner but also took some time and research into using [ThreeJS](/Blog/posts/threejs) properly.
+Since I was now using vectors, most of my code could be easily simplified as ThreeJS has all of the needed vector operations built into their `THREE.Vector3` class. This left the refactored code looking much cleaner but also took some time and research into using ThreeJS properly.
 
 Here is how the Boid is initialized now:
 
@@ -85,7 +85,7 @@ constructor(x, y, z) {
 
 Now that Boids can be created, I need them to move and do things. First I made a simple function to randomly place the Boid somewhere in the bounding box. Next I focused on the basic operations in the update loop: moving a Boid according to its velocity, and pointing a Boid in the direction of its velocity.
 
-These operations only required basic vector operations already implemented in [ThreeJS](/Blog/posts/threejs):
+These operations only required basic vector operations already implemented in ThreeJS:
 
 ```js
 // Update positions
@@ -96,7 +96,7 @@ const axis = new THREE.Vector3(0, 1, 0);
 this.mesh.quaternion.setFromUnitVectors(axis, this.vel.clone().normalize());
 ```
 
-Now that a Boid can move, it needs to stay below a maximum speed, and stay within a bounding box. To handle speed I again used simple [ThreeJS](/Blog/posts/threejs) methods to clamp the speed of a Boid. Then to keep inside the bounding Box, I implemented a function `pushOnScreen(boundary)` that checks if the position of a Boid exceeds the box boundary subtracted by a margin. I adjust each component of the velocity vector by a turning factor to steer away from the wall and back towards the center.
+Now that a Boid can move, it needs to stay below a maximum speed, and stay within a bounding box. To handle speed I again used simple ThreeJS methods to clamp the speed of a Boid. Then to keep inside the bounding Box, I implemented a function `pushOnScreen(boundary)` that checks if the position of a Boid exceeds the box boundary subtracted by a margin. I adjust each component of the velocity vector by a turning factor to steer away from the wall and back towards the center.
 
 ```js
 const boundingBox = new THREE.Box3().setFromObject(boundary);
@@ -121,7 +121,7 @@ Spawning multiple Boids makes the animation already has some _~pizzaz~_:
 
 ![22-02-25 ThreeJS 100 Naive Boids.gif](/Blog/imgs/22-02-25-threejs-100-naive-boids.gif)
 
-Finally, I implemented the other rules of Boids using the same component approach as the 2D implementation. This is bad because computing vector components this way uses the CPU with each calculation being one at a time. I think A better implementation would take advantage of [ThreeJS](/Blog/posts/threejs) [vector](/Blog/posts/vectors) operations. The code would be cleaner as vector operations would be one line and done as ThreeJS intended. However, for even faster computations I may need to implement [JavaScript workers](https://medium.com/techtrument/multithreading-javascript-46156179cf9a) or run vector computations on the GPU.
+Finally, I implemented the other rules of Boids using the same component approach as the 2D implementation. This is bad because computing vector components this way uses the CPU with each calculation being one at a time. I think A better implementation would take advantage of ThreeJS vector operations. The code would be cleaner as vector operations would be one line and done as ThreeJS intended. However, for even faster computations I may need to implement [JavaScript workers](https://medium.com/techtrument/multithreading-javascript-46156179cf9a) or run vector computations on the GPU.
 
 Regardless, here are some working swarms with different meshes and other small tweaks:
 
@@ -138,9 +138,9 @@ _[Here is the code at the end of this stage](https://github.com/xxzbuckxx/Boid-S
 As I have stated before, there are a few ways to optimize the simulation so I can render more Boids with less work from the computer. There are 2 main things I can do:
 
 1. Optimize vertex computations - Perform all vertex operations in one loop, instead of three functions
-2. Optimize draw calls - Since all the Boids are the same mesh, [ThreeJS](/Blog/posts/threejs) has a special mesh instance that can draw all of them in one call
+2. Optimize draw calls - Since all the Boids are the same mesh, ThreeJS has a special mesh instance that can draw all of them in one call
 
-First I rewrote the Boid methods to use [ThreeJS](/Blog/posts/threejs) [vector](/Blog/posts/vectors) operations instead of "manual" component computations. After the three methods were reimplemented, I combined them into one single method, `sim(boids)`, that enacted all three forces in a single loop. This improved performance as the algorithm was running through every Boid three times per Boid before, and now is only running through every Boid once per Boid.
+First I rewrote the Boid methods to use ThreeJS vector operations instead of "manual" component computations. After the three methods were reimplemented, I combined them into one single method, `sim(boids)`, that enacted all three forces in a single loop. This improved performance as the algorithm was running through every Boid three times per Boid before, and now is only running through every Boid once per Boid.
 
 ```js
 let neighbors = 0;
@@ -175,7 +175,7 @@ center.sub(this.mesh.position);
 this.vel.addScaledVector(center, this.centeringFactor);
 ```
 
-Second, I tried optimizing the mesh drawing, into a single GPU draw call. Since all the meshes are the same, I wanted to use `THREE.InstancedMesh` in [ThreeJS](/Blog/posts/threejs). I got multiple meshes to render successfully, but I could not figure out a position transformation on a single mesh. After a lot of struggling I gave up, as the draw calls do not seem to be much of a bottle neck, and it was not worth the pain to try and figure it out. I will probably revisit this when I start importing more complicated meshes but for now I am leaving it alone.
+Second, I tried optimizing the mesh drawing, into a single GPU draw call. Since all the meshes are the same, I wanted to use `THREE.InstancedMesh` in ThreeJS. I got multiple meshes to render successfully, but I could not figure out a position transformation on a single mesh. After a lot of struggling I gave up, as the draw calls do not seem to be much of a bottle neck, and it was not worth the pain to try and figure it out. I will probably revisit this when I start importing more complicated meshes but for now I am leaving it alone.
 
 Now the total amount my computer could render before lagging and heating up went from 300 Boids to 800 Boids.
 
@@ -217,9 +217,9 @@ In addition to separating some of the initialization from `main.js`, I also gave
 
 ### 22-03-07 Importing Models
 
-The next step in making my simulation look more like the ocean is actually importing the fish models. Luckily, [ThreeJS](/Blog/posts/threejs) has a module to import 3D models from a variety of 3D formats. The format I will be using is glTF 2.0 ([here is why](https://godotengine.org/article/we-should-all-use-gltf-20-export-3d-assets-game-engines)) so I downloaded the and setup the [ThreeJS](/Blog/posts/threejs) [glTF Loader Module](https://threejs.org/manual/#en/load-gltf).
+The next step in making my simulation look more like the ocean is actually importing the fish models. Luckily, ThreeJS has a module to import 3D models from a variety of 3D formats. The format I will be using is glTF 2.0 ([here is why](https://godotengine.org/article/we-should-all-use-gltf-20-export-3d-assets-game-engines)) so I downloaded the and setup the ThreeJS [glTF Loader Module](https://threejs.org/manual/#en/load-gltf).
 
-All I needed to do was load the model in, then clone the Model for each Boid instance to store. This should have been a simple step but I had a bit of difficulty because I did not read enough into the documentation. In the [ThreeJS](/Blog/posts/threejs) loader I was using it loaded things asynchronously, meaning [JavaScript](/Blog/posts/javascript) would create a task to load the model, but continue to animate and execute code why the model loaded in the background.
+All I needed to do was load the model in, then clone the Model for each Boid instance to store. This should have been a simple step but I had a bit of difficulty because I did not read enough into the documentation. In the ThreeJS loader I was using it loaded things asynchronously, meaning JavaScript would create a task to load the model, but continue to animate and execute code why the model loaded in the background.
 
 ```js
 const loader = new GLTFLoader();
@@ -230,7 +230,7 @@ return { fishMesh };
 
 This is obviously helpful most cases where you want to reduce loading lag. Usually you do not want your whole program to halt completely while it loads in a bunch of data. However, to initialize and animate a Boid, the model needed to be initialized first. The mesh holds the position data so the position cannot be changed until the mesh exists. To solve this issue I used the `await` keyword to insure the import finishes before the rest of the initialization code is executed.
 
-For the test fish 3D Model I used blender to convert a STL file into a glTF. I used the UCSC letters model from my [3D Print - UCSC Word](/Blog/posts/3d-print---ucsc-word) project. After scaling and adjusting some world values, the result looks like so:
+For the test fish 3D Model I used blender to convert a STL file into a glTF. I used the UCSC letters model from my 3D Print - UCSC Word project. After scaling and adjusting some world values, the result looks like so:
 
 ![22-03-07 ThreeJS Boids 2 Flock UCSC Model.gif](/Blog/imgs/22-03-07-threejs-boids-2-flock-ucsc-model.gif)
 
@@ -240,9 +240,9 @@ For the test fish 3D Model I used blender to convert a STL file into a glTF. I u
 
 [Here is the code at the end of this stage](https://github.com/xxzbuckxx/Boid-Simulation/tree/060319d00bc5566329b232d01fbae34d7495d0f6)
 
-As the simulation is nearly finished, it was time to figure out the logistics of interfacing Holoplay (the holographic display software) with my simulation. I knew that [ThreeJS](/Blog/posts/threejs) would work with the software but I had to think about the easiest way to do this. At the same time, I looked over my [Javascript](/Blog/posts/javascript) modules and I didn't like my long import map in my index. Although I loved the simplicity of vanilla Javascript, it was about time to put some more infrastructure behind my code.
+As the simulation is nearly finished, it was time to figure out the logistics of interfacing Holoplay (the holographic display software) with my simulation. I knew that ThreeJS would work with the software but I had to think about the easiest way to do this. At the same time, I looked over my Javascript modules and I didn't like my long import map in my index. Although I loved the simplicity of vanilla Javascript, it was about time to put some more infrastructure behind my code.
 
-I decided to refactor my code and use [Typescript](/Blog/posts/typescript) with [NodeJS](/Blog/posts/nodejs). Dealing with all the different types of meshes and geometries and various objects being passed through functions it would definitely help to have a strongly typed language to stop me from making silly mistakes. I decided to use [Vite](/Blog/posts/vite) to bundle my [Typescript](/Blog/posts/typescript) into a static site. I have heard a lot of good things about [Vite](/Blog/posts/vite) and I wouldn't a simple web bundler that did not require much configuration. Not that I was using Node I imported [ThreeJS](/Blog/posts/threejs) and its extensions through [Npm](/Blog/posts/npm) instead of using downloaded releases.
+I decided to refactor my code and use Typescript with NodeJS. Dealing with all the different types of meshes and geometries and various objects being passed through functions it would definitely help to have a strongly typed language to stop me from making silly mistakes. I decided to use Vite to bundle my Typescript into a static site. I have heard a lot of good things about Vite and I wouldn't a simple web bundler that did not require much configuration. Not that I was using Node I imported ThreeJS and its extensions through Npm instead of using downloaded releases.
 
 After all the refactoring, I decided to redo the GUI that controlled the Boid Parameters. I did not like how it was so cluttered, and I wanted the separation, alignment, and cohesion to be clearly distinct with one value each. Here is the old GUI:
 

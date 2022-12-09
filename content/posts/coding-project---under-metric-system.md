@@ -8,8 +8,6 @@ cover:
   alt: "Under Metric Dashboard"
 ---
 
-## Demo
-
 ## Concept
 
 During my 2022 internship with [Under.io](https://under.io) I was tasked with making an interactive dashboard.

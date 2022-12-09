@@ -21,8 +21,6 @@ params:
   author: Zack Traczyk
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
-  disableThemeToggle: false
   hideFooter: true
   ShowCodeCopyButtons: true
 
@@ -57,8 +55,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello, I'm Zack Traczyk"
-    Content: "I'm a software engineer and a computer science student at the **University of California Santa Cruz**."
+    Title: "Blog & Such"
+    Content: "Here is what I have been working on."
 
   socialIcons:
     - name: email
