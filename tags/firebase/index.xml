@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Firebase on Zack Traczyk</title>
-    <link>https://xxzbuckxx.github.io/Blog/tags/firebase/</link>
+    <link>https://blog.zacktraczyk.com/tags/firebase/</link>
     <description>Recent content in Firebase on Zack Traczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Aug 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Aug 2022 16:11:03 +0000</lastBuildDate><atom:link href="https://blog.zacktraczyk.com/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game - Blob Mob</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/game-blob-mob/</link>
+      <link>https://blog.zacktraczyk.com/posts/game-blob-mob/</link>
       <pubDate>Sat, 06 Aug 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/game-blob-mob/</guid>
+      <guid>https://blog.zacktraczyk.com/posts/game-blob-mob/</guid>
       <description>An arcade style web game with account account authentication.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>This game was one of my first coding projects, and I originally made it using a single file of javascript and some boilerplate HTML.</p>

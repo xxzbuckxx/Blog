@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DSI on Zack Traczyk</title>
-    <link>https://xxzbuckxx.github.io/Blog/tags/dsi/</link>
+    <link>https://blog.zacktraczyk.com/tags/dsi/</link>
     <description>Recent content in DSI on Zack Traczyk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 12:39:03 +0000</lastBuildDate><atom:link href="https://xxzbuckxx.github.io/Blog/tags/dsi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 May 2022 12:39:03 +0000</lastBuildDate><atom:link href="https://blog.zacktraczyk.com/tags/dsi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coding Project - Points On Sphere</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-points-on-sphere/</link>
+      <link>https://blog.zacktraczyk.com/posts/coding-project-points-on-sphere/</link>
       <pubDate>Thu, 05 May 2022 12:39:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-points-on-sphere/</guid>
+      <guid>https://blog.zacktraczyk.com/posts/coding-project-points-on-sphere/</guid>
       <description>A web project that generates 3d points on a sphere.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>This is a visualization for an algorithm that distributes points evenly on a sphere. My first attempts were at implementing the algorithm myself using <a href="https://stackoverflow.com/questions/9600801/evenly-distributing-n-points-on-a-sphere/44164075#44164075">this stackoverflow post</a>. However, I did not quite get the visualization I wanted, so I used <a href="https://gitiub.com/SebLague/Boids/blob/master/Assets/Scripts/BoidHelper.cs">Sebastion Lague&rsquo;s implementation</a> instead.</p>
@@ -30,10 +30,10 @@
     
     <item>
       <title>Coding Project - Boids</title>
-      <link>https://xxzbuckxx.github.io/Blog/posts/coding-project-boids/</link>
+      <link>https://blog.zacktraczyk.com/posts/coding-project-boids/</link>
       <pubDate>Wed, 23 Feb 2022 16:11:03 +0000</pubDate>
       
-      <guid>https://xxzbuckxx.github.io/Blog/posts/coding-project-boids/</guid>
+      <guid>https://blog.zacktraczyk.com/posts/coding-project-boids/</guid>
       <description>Simulating flocking behavior in the browser.</description>
       <content:encoded><![CDATA[<h2 id="concept">Concept</h2>
 <p>Using the 3D visualization tools in the <a href="/posts/dsi">DSI</a> I plan to make an interactive visualization. Specifically I plan to replicate flocking behavior using <a href="https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html">Boids</a>, an <a href="/posts/emergence">emerging phenomena</a> and example of <a href="/posts/complexity-theory">complexity theory</a>.</p>
