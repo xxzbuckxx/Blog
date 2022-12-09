@@ -80,3 +80,5 @@ menu:
       name: Search
       url: /search/
       weight: 30
+    - name: portfolio
+      url: https://zacktraczyk.com
